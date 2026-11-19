@@ -1,0 +1,94 @@
+{
+  "datasets": {
+    "CAUCAFall": 100,
+    "GMDCSA24": 160,
+    "Le2i": 190
+  },
+  "videos": 450,
+  "preserved_videos": 230,
+  "new_videos": 220,
+  "provisional": false,
+  "subjects": 23,
+  "split_subjects": {
+    "test": [
+      "GMDCSA24:Subject 4",
+      "CAUCAFall:Subject.2",
+      "Le2i:2",
+      "Le2i:7",
+      "CAUCAFall:Subject.9"
+    ],
+    "train": [
+      "GMDCSA24:Subject 2",
+      "GMDCSA24:Subject 3",
+      "CAUCAFall:Subject.1",
+      "CAUCAFall:Subject.10",
+      "CAUCAFall:Subject.4",
+      "CAUCAFall:Subject.5",
+      "CAUCAFall:Subject.6",
+      "Le2i:1",
+      "Le2i:0",
+      "Le2i:3",
+      "Le2i:4",
+      "Le2i:6",
+      "Le2i:8",
+      "CAUCAFall:Subject.7"
+    ],
+    "val": [
+      "GMDCSA24:Subject 1",
+      "CAUCAFall:Subject.3",
+      "Le2i:5",
+      "CAUCAFall:Subject.8"
+    ]
+  },
+  "split_videos": {
+    "test": 95,
+    "train": 284,
+    "val": 71
+  },
+  "label_semantics": "0=ADL, 1=falling, 2=fallen; intentional lying remains ADL; unknown/overlap excluded",
+  "existing_labels": "Copied existing segments including user edits verbatim by preserved video_id",
+  "split_policy": "Old subjects retain old assignments; CAUCA 7=train,8=val,9=test; Le2i official OmniFall cross-subject split",
+  "archive_bytes": {
+    "Dataset_CAUCAFall.zip": 8326349365,
+    "FallDataset.zip": 9608701260
+  },
+  "upstream_revision": "83572a37b9e3081df8c06a56874b1d1f2a19386c",
+  "original_manifest_sha256": "c2295d189903a965aefda81e6a83461e624ffa18b1986c7e821890b161d39a12",
+  "original_segments_sha256": "84f647cd6f7aa9b2bc9e9735bcba6fb3bc12ff637c1e6783b0583d54a9713deb",
+  "canonical_manifest_sha256": "91f4f34494fe74dfbcea79d25dcc3f758929e9cf789be2f38f32e514f6bfa162",
+  "normalized_segments_sha256": "a7e7fb6ec1c36a67c7e8be55cc512b1c5fdc2d75e65487c9c2f7c3fbbc21b325",
+  "user_mapping_sha256": "f3a8128cff87cdbdf1747ac417754ed71c2d46d1ce90195dbbaf1a34f2ebde76",
+  "normalization_receipt": "outputs/data_audit/label_normalization.json",
+  "new_training_executed": true,
+  "canonical_videos": 447,
+  "canonical_datasets": {
+    "CAUCAFall": 100,
+    "GMDCSA24": 160,
+    "Le2i": 187
+  },
+  "canonical_split_videos": {
+    "test": 95,
+    "train": 283,
+    "val": 69
+  },
+  "deduplication": "duplicate_aliases.json; byte-identical pairs use annotation consensus",
+  "manual_reviews_sha256": "5fbb86caab9ddd81cbf7aa6dd9854d96db453e0918318bd1cd4b1c2bda5cb31c",
+  "manual_reviewed_points": 14,
+  "unresolved_label_conflicts": 3,
+  "baseline_run": "outputs/runs/gru_body_motion",
+  "training_executed_by": "user",
+  "test_evaluated": false,
+  "sampling_experiment": {
+    "new_training_runs": 7,
+    "total_compared_runs": 8,
+    "tests_passed": 55,
+    "test_evaluated": false,
+    "baseline_checkpoint_unchanged": true,
+    "prepared_data_unchanged": true,
+    "default_sampling": "video",
+    "outcome": "Capped sampling / hard-negative weighting did not improve validation; retain original default.",
+    "best_validation_run": "sampling_ablation_video_s89",
+    "best_validation_macro_f1": 0.812288557614719,
+    "report": "docs/SAMPLING_EXPERIMENT.md"
+  }
+}

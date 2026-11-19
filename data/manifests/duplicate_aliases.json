@@ -1,0 +1,26 @@
+[
+  {
+    "kept_video_id": "le2i-59e8e8b81324134e",
+    "dropped_video_id": "le2i-e0e96135f29494fd",
+    "kept_path": "data/raw/Le2i/Home_02/video_49.avi",
+    "dropped_path": "data/raw/Le2i/Home_02/video_50.avi",
+    "source_sha256": "6fb070f2848b1fc48ccb6a56f5e868fd341799f8c2aeabf442c42a4008d97db6",
+    "split": "val"
+  },
+  {
+    "kept_video_id": "le2i-6180aca87ca9c2d5",
+    "dropped_video_id": "le2i-6987b0b21db0bdda",
+    "kept_path": "data/raw/Le2i/Home_01/video_20.avi",
+    "dropped_path": "data/raw/Le2i/Home_01/video_21.avi",
+    "source_sha256": "e7ecae96d214d7483708473128a1b4d52921df37c232eabeaf82d1e0c6c50a38",
+    "split": "train"
+  },
+  {
+    "kept_video_id": "le2i-7e83cc7e3bc16e52",
+    "dropped_video_id": "le2i-d373224f05a87d77",
+    "kept_path": "data/raw/Le2i/Home_01/video_2.avi",
+    "dropped_path": "data/raw/Le2i/Home_01/video_3.avi",
+    "source_sha256": "2dfef6ae66bd6bf769938821ebfd6a8727a83865a984c4f07caf7bd86bb8f69c",
+    "split": "val"
+  }
+]

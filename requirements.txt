@@ -1,0 +1,16 @@
+# Exact versions used to produce the reported results (Python 3.12, CPU).
+numpy==2.5.3
+pandas==3.0.6
+opencv-python==5.0.0.93
+torch==2.14.0
+torchvision==0.29.0
+scikit-learn==1.9.1
+joblib==1.6.0
+matplotlib==3.11.2
+pillow==12.3.0
+scipy==1.18.1
+ultralytics==8.4.158
+lap==0.5.13
+onnx==1.23.2
+onnxruntime==1.31.1
+imageio-ffmpeg==0.6.0

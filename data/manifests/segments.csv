@@ -1,0 +1,1398 @@
+video_id,start,end,label,mapped_label,source,line
+caucafall-00dc8c1bdfab25bf,0.0,1.18,8,0,merged_labels.csv (user mapping),545
+caucafall-00dc8c1bdfab25bf,1.18,3.18,1,1,merged_labels.csv (user mapping),547
+caucafall-00dc8c1bdfab25bf,3.18,7.5,2,2,merged_labels.csv (user mapping),553
+caucafall-02c99033a2fdd168,0.0,9.65,0,0,labels/caucafall.csv,159
+caucafall-0350c8ab30ebe8a0,0.0,10.09108,0,0,merged_labels.csv (user mapping); merged same target class; merged same target class,589
+caucafall-06f86aa97cae3454,0.0,8.1,9,0,merged_labels.csv (user mapping),587
+caucafall-08c7c3848a8b63da,0.0,2.98,4,0,merged_labels.csv (user mapping),596
+caucafall-08c7c3848a8b63da,2.98,6.02,1,1,merged_labels.csv (user mapping),603
+caucafall-08c7c3848a8b63da,6.02,12.4,2,2,merged_labels.csv (user mapping),609
+caucafall-0936236bf51bbab2,0.0,1.64,0,0,merged_labels.csv (user mapping),615
+caucafall-0936236bf51bbab2,1.64,14.599,9,0,merged_labels.csv (user mapping); merged same target class; merged same target class,626
+caucafall-111a62b2b4900074,0.0,2.27,8,0,merged_labels.csv (user mapping),621
+caucafall-111a62b2b4900074,2.27,4.41,1,1,merged_labels.csv (user mapping),629
+caucafall-111a62b2b4900074,4.41,10.09,2,2,merged_labels.csv (user mapping),633
+caucafall-118da0f28d62596a,0.0,9.635,0,0,labels/caucafall.csv; merged same target class; merged same target class; merged same target class,158
+caucafall-18b17a00aec2a9fa,0.0,1.25,0,0,labels/caucafall.csv,211
+caucafall-18b17a00aec2a9fa,1.25,3.45,1,1,labels/caucafall.csv,218
+caucafall-18b17a00aec2a9fa,3.45,7.39,2,2,labels/caucafall.csv,224
+caucafall-19c1b490c48e2afd,0.0,10.0,9,0,labels/caucafall.csv,183
+caucafall-19c1b490c48e2afd,10.0,12.8,7,0,labels/caucafall.csv,204
+caucafall-1a4ad420b105d610,0.0,8.8,0,0,merged_labels.csv (user mapping),515
+caucafall-200f4e3f0d94e708,0.0,1.03,8,0,labels/caucafall.csv,163
+caucafall-200f4e3f0d94e708,1.03,3.09,1,1,labels/caucafall.csv,167
+caucafall-200f4e3f0d94e708,3.09,8.29,2,2,labels/caucafall.csv,174
+caucafall-2381355c8223d978,0.014,1.954,0,0,merged_labels.csv (user mapping),568
+caucafall-2381355c8223d978,2.127,6.673,9,0,merged_labels.csv (user mapping),574
+caucafall-2381355c8223d978,6.674,10.394,7,0,merged_labels.csv (user mapping),583
+caucafall-24f22d96dfaa2818,0.0,8.3,0,0,merged_labels.csv (user mapping); merged same target class; merged same target class,490
+caucafall-28137a998f8dfb71,0.0,2.15,0,0,merged_labels.csv (user mapping),543
+caucafall-28137a998f8dfb71,2.15,5.21,1,1,merged_labels.csv (user mapping),550
+caucafall-28137a998f8dfb71,5.21,9.59,5,0,merged_labels.csv (user mapping),556
+caucafall-2afdf7468c2458d3,0.0,2.36,0,0,merged_labels.csv (user mapping),593
+caucafall-2afdf7468c2458d3,2.36,5.2,1,1,merged_labels.csv (user mapping),600
+caucafall-2afdf7468c2458d3,5.2,10.1,2,2,merged_labels.csv (user mapping),606
+caucafall-2e734013287fd1b1,0.0,0.92,0,0,labels/caucafall.csv,212
+caucafall-2e734013287fd1b1,0.92,4.32,1,1,labels/caucafall.csv,217
+caucafall-2e734013287fd1b1,4.32,10.34,2,2,labels/caucafall.csv,226
+caucafall-2f6333fcce405017,0.0,13.3,0,0,merged_labels.csv (user mapping),591
+caucafall-36a1ba629e7d4f37,0.0,1.55,1,1,merged_labels.csv (user mapping),486
+caucafall-36a1ba629e7d4f37,1.55,5.3,2,2,Human review: User confirms already fallen from the first shown frame at displayed 1.566s,-1
+caucafall-38ce0a639f903398,0.0,2.06,8,0,merged_labels.csv (user mapping),492
+caucafall-38ce0a639f903398,2.06,4.66,1,1,merged_labels.csv (user mapping),501
+caucafall-38ce0a639f903398,4.66,5.94,2,2,merged_labels.csv (user mapping),506
+caucafall-3aa266fb75e83943,0.0,8.55,9,0,merged_labels.csv (user mapping),487
+caucafall-3e4ab22556b94f04,0.0,5.73692,3,0,merged_labels.csv (user mapping),463
+caucafall-3e4ab22556b94f04,5.737,9.34108,4,0,merged_labels.csv (user mapping),481
+caucafall-3fce01b93f1f872d,0.0,2.92,8,0,merged_labels.csv (user mapping),466
+caucafall-3fce01b93f1f872d,2.92,5.32,0,0,merged_labels.csv (user mapping),475
+caucafall-3fce01b93f1f872d,5.32,7.64,1,1,merged_labels.csv (user mapping),480
+caucafall-3fce01b93f1f872d,7.64,9.5,2,2,merged_labels.csv (user mapping),485
+caucafall-462bc169692f591d,0.0,1.93,8,0,merged_labels.csv (user mapping),464
+caucafall-462bc169692f591d,1.93,3.77,1,1,merged_labels.csv (user mapping),474
+caucafall-462bc169692f591d,3.77,6.25,6,0,merged_labels.csv (user mapping),478
+caucafall-46cc4083e6faff20,0.0,1.85,4,0,merged_labels.csv (user mapping),622
+caucafall-46cc4083e6faff20,1.85,4.45,1,1,merged_labels.csv (user mapping),627
+caucafall-46cc4083e6faff20,4.45,14.39,2,2,merged_labels.csv (user mapping),634
+caucafall-4c7b565842868d98,0.0,5.6,3,0,merged_labels.csv (user mapping); merged same target class; merged same target class,489
+caucafall-4efd4c93437c240d,0.0,0.7,8,0,labels/caucafall.csv,205
+caucafall-4efd4c93437c240d,0.7,10.6,9,0,labels/caucafall.csv,215
+caucafall-52337d5d96e5884e,0.0,0.53,8,0,merged_labels.csv (user mapping),468
+caucafall-52337d5d96e5884e,0.53,3.43,1,1,merged_labels.csv (user mapping),470
+caucafall-52337d5d96e5884e,3.43,5.69,2,2,merged_labels.csv (user mapping),477
+caucafall-52d81317f3a530a2,0.0,2.36,8,0,labels/caucafall.csv,162
+caucafall-52d81317f3a530a2,2.36,4.38,1,1,labels/caucafall.csv,171
+caucafall-52d81317f3a530a2,4.38,10.6,2,2,labels/caucafall.csv,177
+caucafall-53900f323e86d59c,0.0,0.86,0,0,merged_labels.csv (user mapping),619
+caucafall-53900f323e86d59c,0.86,3.56,1,1,merged_labels.csv (user mapping),623
+caucafall-53900f323e86d59c,3.56,12.14,2,2,merged_labels.csv (user mapping),631
+caucafall-5791be5bc5177ed4,0.0,8.95,0,0,merged_labels.csv (user mapping),540
+caucafall-5b6dd79d09f907cf,0.0,11.3,0,0,merged_labels.csv (user mapping),562
+caucafall-5e9b0d6281f1175c,0.01,0.61,8,0,merged_labels.csv (user mapping),495
+caucafall-5e9b0d6281f1175c,0.61,3.23,1,1,merged_labels.csv (user mapping),497
+caucafall-5e9b0d6281f1175c,3.23,5.45,2,2,merged_labels.csv (user mapping),505
+caucafall-5f1c145c0def4d01,0.0,1.54,4,0,labels/caucafall.csv,214
+caucafall-5f1c145c0def4d01,1.54,5.0,1,1,labels/caucafall.csv,220
+caucafall-5f1c145c0def4d01,5.0,10.8,2,2,labels/caucafall.csv,228
+caucafall-5fda92e3eacd43dd,0.0,1.58,0,0,labels/caucafall.csv,190
+caucafall-5fda92e3eacd43dd,1.58,3.68,1,1,labels/caucafall.csv,194
+caucafall-5fda92e3eacd43dd,3.68,11.44,2,2,labels/caucafall.csv,200
+caucafall-62d964e197b7700a,0.0,1.54,0,0,merged_labels.csv (user mapping),616
+caucafall-62d964e197b7700a,1.54,4.86192,3,0,merged_labels.csv (user mapping),625
+caucafall-62d964e197b7700a,4.862,10.98692,4,0,merged_labels.csv (user mapping); merged same target class,635
+caucafall-62d964e197b7700a,10.987,11.7,8,0,merged_labels.csv (user mapping),638
+caucafall-654ab923d34a0902,0.0,9.434,9,0,merged_labels.csv (user mapping); merged same target class,588
+caucafall-66629551fdf2c66b,0.0,9.32,9,0,labels/caucafall.csv,156
+caucafall-66629551fdf2c66b,9.32,10.1,7,0,labels/caucafall.csv,181
+caucafall-6c1dbdbba86df38b,0.0,1.88,4,0,merged_labels.csv (user mapping),567
+caucafall-6c1dbdbba86df38b,1.88,4.32,1,1,merged_labels.csv (user mapping),571
+caucafall-6c1dbdbba86df38b,4.32,11.44,2,2,merged_labels.csv (user mapping),580
+caucafall-6f1d483f65676667,0.0,8.1,9,0,merged_labels.csv (user mapping),511
+caucafall-70aa205516812320,0.0,10.8,0,0,labels/caucafall.csv,186
+caucafall-70da76dcd0955213,0.0,5.98692,9,0,merged_labels.csv (user mapping); merged same target class,541
+caucafall-70da76dcd0955213,5.987,9.94358,4,0,merged_labels.csv (user mapping),557
+caucafall-73b1e23b2e076aa2,0.0,11.7,0,0,labels/caucafall.csv,209
+caucafall-75749a19a149a3ec,0.0,9.1,9,0,merged_labels.csv (user mapping),460
+caucafall-77bdf976b0b091c2,0.0,11.091,9,0,merged_labels.csv (user mapping); merged same target class,539
+caucafall-79a012a03241688e,0.0,6.99,9,0,merged_labels.csv (user mapping),512
+caucafall-79a012a03241688e,6.99,10.64776,7,0,merged_labels.csv (user mapping),534
+caucafall-7a12f4ad4f797aab,0.0,1.5,4,0,merged_labels.csv (user mapping),520
+caucafall-7a12f4ad4f797aab,1.5,3.42,1,1,merged_labels.csv (user mapping),521
+caucafall-7a12f4ad4f797aab,3.42,10.1,2,2,merged_labels.csv (user mapping),527
+caucafall-7d7c8a1fe9ab151c,0.0,1.08,4,0,labels/caucafall.csv,164
+caucafall-7d7c8a1fe9ab151c,1.08,4.16,1,1,labels/caucafall.csv,169
+caucafall-7d7c8a1fe9ab151c,4.16,10.34,2,2,labels/caucafall.csv,176
+caucafall-7e6f43ae5bc309f2,0.0,12.0,0,0,merged_labels.csv (user mapping),542
+caucafall-83803a9ff6b2ca04,0.0,4.27,8,0,merged_labels.csv (user mapping),518
+caucafall-83803a9ff6b2ca04,4.27,6.13,1,1,merged_labels.csv (user mapping),529
+caucafall-83803a9ff6b2ca04,6.13,8.55,2,2,merged_labels.csv (user mapping),533
+caucafall-8577d9e6a7e54527,0.0,1.0,8,0,labels/caucafall.csv,189
+caucafall-8577d9e6a7e54527,1.0,3.4,1,1,labels/caucafall.csv,193
+caucafall-8577d9e6a7e54527,3.4,10.1,2,2,labels/caucafall.csv,199
+caucafall-867cf5a10e215c80,0.0,6.49,9,0,merged_labels.csv (user mapping); merged same target class,488
+caucafall-86858af4a4d98589,0.0,1.85,4,0,merged_labels.csv (user mapping),469
+caucafall-86858af4a4d98589,1.85,5.99,1,1,merged_labels.csv (user mapping),473
+caucafall-86858af4a4d98589,5.99,9.09,2,2,merged_labels.csv (user mapping),482
+caucafall-8996498ff3c64320,0.0,1.76,8,0,merged_labels.csv (user mapping),519
+caucafall-8996498ff3c64320,1.76,3.76,1,1,merged_labels.csv (user mapping),523
+caucafall-8996498ff3c64320,3.76,11.0,2,2,merged_labels.csv (user mapping),528
+caucafall-8d3a7af354528fd5,0.0,0.28,8,0,merged_labels.csv (user mapping),493
+caucafall-8d3a7af354528fd5,0.28,1.06,0,0,merged_labels.csv (user mapping),496
+caucafall-8d3a7af354528fd5,1.06,2.62,1,1,merged_labels.csv (user mapping),498
+caucafall-8d3a7af354528fd5,2.62,7.3,2,2,merged_labels.csv (user mapping),503
+caucafall-8f79364c3e478b0f,0.0,2.9,0,0,merged_labels.csv (user mapping),595
+caucafall-8f79364c3e478b0f,2.9,5.12,1,1,merged_labels.csv (user mapping),602
+caucafall-8f79364c3e478b0f,5.12,11.44,2,2,merged_labels.csv (user mapping),605
+caucafall-9b5487dfd45fa1fd,0.0,1.98692,9,0,merged_labels.csv (user mapping),514
+caucafall-9b5487dfd45fa1fd,1.987,13.04942,3,0,merged_labels.csv (user mapping); merged same target class,524
+caucafall-9c78f6abc04d68f0,0.0,2.25,4,0,labels/caucafall.csv,191
+caucafall-9c78f6abc04d68f0,2.25,5.55,1,1,labels/caucafall.csv,197
+caucafall-9c78f6abc04d68f0,5.55,11.69,2,2,labels/caucafall.csv,203
+caucafall-a0d342ef6af05a42,0.0,1.97,8,0,merged_labels.csv (user mapping),564
+caucafall-a0d342ef6af05a42,1.97,4.49,1,1,merged_labels.csv (user mapping),573
+caucafall-a0d342ef6af05a42,4.49,12.35,2,2,merged_labels.csv (user mapping),581
+caucafall-a1ea01fa6cf1cd54,0.0,3.01,8,0,merged_labels.csv (user mapping),517
+caucafall-a1ea01fa6cf1cd54,3.01,5.19,1,1,merged_labels.csv (user mapping),526
+caucafall-a1ea01fa6cf1cd54,5.19,7.65,2,2,merged_labels.csv (user mapping),531
+caucafall-a4bbc219c2f92ecc,0.0,1.66,8,0,labels/caucafall.csv,210
+caucafall-a4bbc219c2f92ecc,1.66,5.08,1,1,labels/caucafall.csv,221
+caucafall-a4bbc219c2f92ecc,5.08,12.6,2,2,labels/caucafall.csv,229
+caucafall-a68b3cc40a42159a,0.0,2.24,4,0,merged_labels.csv (user mapping),494
+caucafall-a68b3cc40a42159a,2.24,5.62,1,1,merged_labels.csv (user mapping),502
+caucafall-a68b3cc40a42159a,5.62,7.84,2,2,merged_labels.csv (user mapping),509
+caucafall-a72e9ba43802745e,0.0,1.2,0,0,merged_labels.csv (user mapping),462
+caucafall-a72e9ba43802745e,1.2,5.845,9,0,merged_labels.csv (user mapping); merged same target class,472
+caucafall-b2dc8b12424eda93,0.0,10.59108,3,0,labels/caucafall.csv; merged same target class,185
+caucafall-b40ac377b796c1e8,0.0,2.22,8,0,merged_labels.csv (user mapping),592
+caucafall-b40ac377b796c1e8,2.22,5.92,1,1,merged_labels.csv (user mapping),599
+caucafall-b40ac377b796c1e8,5.92,11.7,2,2,merged_labels.csv (user mapping),608
+caucafall-b50f5942c3af5efd,0.0,2.26,4,0,merged_labels.csv (user mapping),546
+caucafall-b50f5942c3af5efd,2.26,4.1,1,1,merged_labels.csv (user mapping),551
+caucafall-b50f5942c3af5efd,4.1,9.9,2,2,merged_labels.csv (user mapping),554
+caucafall-b5109a84b9f9d448,0.0,2.38275,0,0,labels/caucafall.csv,207
+caucafall-b5109a84b9f9d448,2.383,10.98108,9,0,labels/caucafall.csv,223
+caucafall-b9d83feb391ac84f,0.0,0.91,0,0,merged_labels.csv (user mapping),467
+caucafall-b9d83feb391ac84f,0.91,2.99,1,1,merged_labels.csv (user mapping),471
+caucafall-b9d83feb391ac84f,2.99,4.29,2,2,merged_labels.csv (user mapping),476
+caucafall-bb957f6059789ed9,0.0,1.73,8,0,labels/caucafall.csv,187
+caucafall-bb957f6059789ed9,1.73,4.55,1,1,labels/caucafall.csv,195
+caucafall-bb957f6059789ed9,4.55,10.59,2,2,labels/caucafall.csv,201
+caucafall-bf1bf437bf7eb113,0.0,2.50465,0,0,merged_labels.csv (user mapping),560
+caucafall-bf1bf437bf7eb113,2.505,12.85465,9,0,merged_labels.csv (user mapping),576
+caucafall-bf1bf437bf7eb113,12.855,13.55,0,0,merged_labels.csv (user mapping),586
+caucafall-bf1dac4f7b7a6766,0.0,1.94,0,0,merged_labels.csv (user mapping),565
+caucafall-bf1dac4f7b7a6766,1.94,3.66,1,1,merged_labels.csv (user mapping),572
+caucafall-bf1dac4f7b7a6766,3.66,10.0,2,2,merged_labels.csv (user mapping),578
+caucafall-c0a08942efb65fe5,0.0,1.08,0,0,merged_labels.csv (user mapping),594
+caucafall-c0a08942efb65fe5,1.08,3.64,1,1,merged_labels.csv (user mapping),597
+caucafall-c0a08942efb65fe5,3.64,11.44,2,2,merged_labels.csv (user mapping),604
+caucafall-c17b4c043b52b91d,0.0,1.91,8,0,merged_labels.csv (user mapping),618
+caucafall-c17b4c043b52b91d,1.91,4.41,1,1,merged_labels.csv (user mapping),628
+caucafall-c17b4c043b52b91d,4.41,13.69,2,2,merged_labels.csv (user mapping),632
+caucafall-c29e4da321903111,0.0,8.3,9,0,labels/caucafall.csv,182
+caucafall-c55310eec2558fe4,0.0,2.23792,7,0,labels/caucafall.csv; merged same target class,157
+caucafall-c55310eec2558fe4,2.238,7.584,9,0,labels/caucafall.csv; merged same target class,170
+caucafall-c742e82d2e2d4537,0.0,6.46,0,0,merged_labels.csv (user mapping),465
+caucafall-c742e82d2e2d4537,6.46,7.3,8,0,merged_labels.csv (user mapping),483
+caucafall-c742e82d2e2d4537,7.3,12.1,0,0,merged_labels.csv (user mapping),484
+caucafall-c778f2fca4a27d28,0.0,0.86192,0,0,labels/caucafall.csv,208
+caucafall-c778f2fca4a27d28,0.862,11.36192,3,0,labels/caucafall.csv; merged same target class,216
+caucafall-c778f2fca4a27d28,11.362,11.9,7,0,labels/caucafall.csv,231
+caucafall-c80d437ed34b7929,0.0,0.78,0,0,labels/caucafall.csv,161
+caucafall-c80d437ed34b7929,0.78,2.64,1,1,labels/caucafall.csv,165
+caucafall-c80d437ed34b7929,2.64,8.1,2,2,labels/caucafall.csv,172
+caucafall-ca325556dd576737,0.0,11.25,0,0,merged_labels.csv (user mapping),617
+caucafall-ca93fdd17b1d6977,0.0,12.2,0,0,merged_labels.csv (user mapping),491
+caucafall-d4cba1f918805334,0.0,6.88275,0,0,merged_labels.csv (user mapping); merged same target class,561
+caucafall-d4cba1f918805334,6.883,12.98608,4,0,merged_labels.csv (user mapping); merged same target class,584
+caucafall-d4f93b952f2b7fc7,0.0,2.0,1,1,merged_labels.csv (user mapping),537
+caucafall-d4f93b952f2b7fc7,2.0,8.39,2,2,merged_labels.csv (user mapping),548
+caucafall-d86a301caf1c05ca,0.0,2.28,0,0,labels/caucafall.csv,206
+caucafall-d86a301caf1c05ca,2.28,8.92,9,0,labels/caucafall.csv,222
+caucafall-d86a301caf1c05ca,8.92,10.8,7,0,labels/caucafall.csv,230
+caucafall-dcaa0bf9238f0257,0.0,1.98,9,0,merged_labels.csv (user mapping),544
+caucafall-dcaa0bf9238f0257,1.98,4.18,1,1,merged_labels.csv (user mapping),549
+caucafall-dcaa0bf9238f0257,4.18,8.1,2,2,merged_labels.csv (user mapping),555
+caucafall-dd0e72aa99ad7bed,0.0,1.5,0,0,labels/caucafall.csv,213
+caucafall-dd0e72aa99ad7bed,1.5,3.56,1,1,labels/caucafall.csv,219
+caucafall-dd0e72aa99ad7bed,3.56,9.44,2,2,labels/caucafall.csv,225
+caucafall-ddacb14f2ad361d4,0.0,0.71,0,0,labels/caucafall.csv,188
+caucafall-ddacb14f2ad361d4,0.71,2.55,1,1,labels/caucafall.csv,192
+caucafall-ddacb14f2ad361d4,2.55,6.09,2,2,labels/caucafall.csv,198
+caucafall-e0ed64e6595a5fdd,0.0,9.9,9,0,labels/caucafall.csv,155
+caucafall-e17d1406e1cd4a95,0.0,1.8,8,0,merged_labels.csv (user mapping),566
+caucafall-e17d1406e1cd4a95,1.8,2.8,0,0,merged_labels.csv (user mapping),570
+caucafall-e17d1406e1cd4a95,2.8,4.8,1,1,merged_labels.csv (user mapping),577
+caucafall-e17d1406e1cd4a95,4.8,10.94,2,2,merged_labels.csv (user mapping),582
+caucafall-edcae550fb0525d1,0.0,5.36192,0,0,merged_labels.csv (user mapping); merged same target class,590
+caucafall-edcae550fb0525d1,5.362,8.50775,4,0,merged_labels.csv (user mapping),607
+caucafall-edcae550fb0525d1,8.508,9.45,7,0,merged_labels.csv (user mapping),611
+caucafall-eddcddedfae82a89,0.0,0.75,8,0,merged_labels.csv (user mapping),563
+caucafall-eddcddedfae82a89,0.75,3.85,1,1,merged_labels.csv (user mapping),569
+caucafall-eddcddedfae82a89,3.85,10.69,2,2,merged_labels.csv (user mapping),579
+caucafall-ee18f7d9053da949,0.0,10.95,9,0,merged_labels.csv (user mapping),461
+caucafall-eec0ab233cc60c81,0.0,12.4,9,0,merged_labels.csv (user mapping),613
+caucafall-f2a500a0601870ac,0.0,1.69589,0,0,merged_labels.csv (user mapping),513
+caucafall-f2a500a0601870ac,1.696,7.44589,9,0,merged_labels.csv (user mapping),522
+caucafall-f2a500a0601870ac,7.446,9.28242,8,0,merged_labels.csv (user mapping); merged same target class,535
+caucafall-f3a65f495973033d,0.0,3.09,8,0,labels/caucafall.csv,160
+caucafall-f3a65f495973033d,3.09,5.55,1,1,labels/caucafall.csv,173
+caucafall-f3a65f495973033d,5.55,12.55,2,2,labels/caucafall.csv,178
+caucafall-f3f0cf20b984e093,0.0,0.97,8,0,merged_labels.csv (user mapping),620
+caucafall-f3f0cf20b984e093,0.97,3.35,1,1,merged_labels.csv (user mapping),624
+caucafall-f3f0cf20b984e093,3.35,10.59,2,2,merged_labels.csv (user mapping),630
+caucafall-f45f086a77ddcf0a,0.0,2.22,8,0,merged_labels.csv (user mapping),516
+caucafall-f45f086a77ddcf0a,2.22,5.0,1,1,merged_labels.csv (user mapping),525
+caucafall-f45f086a77ddcf0a,5.0,8.3,2,2,merged_labels.csv (user mapping),530
+caucafall-f9966845364a74d5,0.0,6.1,9,0,merged_labels.csv (user mapping),559
+caucafall-fc78d9d94e68a23d,0.0,7.2,9,0,merged_labels.csv (user mapping),538
+caucafall-fd8a23e8f9762f67,0.0,13.042,9,0,merged_labels.csv (user mapping); merged same target class,614
+caucafall-fe63892c80965aca,0.0,1.88275,0,0,labels/caucafall.csv,184
+caucafall-fe63892c80965aca,1.883,13.29942,9,0,labels/caucafall.csv,196
+gmdcsa24-002bf566f0f06753,0.0,4.69514,8,0,merged_labels.csv (user mapping); merged same target class,254
+gmdcsa24-002bf566f0f06753,4.7,7.13264,1,1,merged_labels.csv (user mapping),341
+gmdcsa24-002bf566f0f06753,7.133,8.94014,2,2,merged_labels.csv (user mapping),356
+gmdcsa24-03f585be92440803,0.0,2.28,4,0,merged_labels.csv (user mapping),15
+gmdcsa24-03f585be92440803,2.28,4.42,1,1,merged_labels.csv (user mapping),63
+gmdcsa24-03f585be92440803,4.42,6.86,2,2,merged_labels.csv (user mapping),86
+gmdcsa24-049786a80bcdeec9,0.0,0.92,4,0,merged_labels.csv (user mapping),391
+gmdcsa24-049786a80bcdeec9,0.92,2.28,1,1,merged_labels.csv (user mapping),407
+gmdcsa24-049786a80bcdeec9,2.28,4.64,2,2,merged_labels.csv (user mapping),435
+gmdcsa24-04dc524d3996cb16,0.0,1.4,0,0,merged_labels.csv (user mapping),375
+gmdcsa24-04dc524d3996cb16,1.4,7.00764,5,0,merged_labels.csv (user mapping),418
+gmdcsa24-04dc524d3996cb16,7.008,12.79514,6,0,merged_labels.csv (user mapping),456
+gmdcsa24-050b306ff9163849,0.0,6.28,0,0,merged_labels.csv (user mapping),8
+gmdcsa24-05f3e876001008d8,0.0,1.64,0,0,merged_labels.csv (user mapping),384
+gmdcsa24-05f3e876001008d8,1.64,2.68,1,1,merged_labels.csv (user mapping),426
+gmdcsa24-05f3e876001008d8,2.68,6.7,2,2,merged_labels.csv (user mapping),438
+gmdcsa24-089bc889cdf3100a,0.0,1.94,0,0,merged_labels.csv (user mapping),11
+gmdcsa24-089bc889cdf3100a,1.94,3.9,3,0,merged_labels.csv (user mapping),58
+gmdcsa24-089bc889cdf3100a,3.9,9.32,9,0,merged_labels.csv (user mapping),83
+gmdcsa24-09c36a44173728a3,0.0,12.0,4,0,merged_labels.csv (user mapping),367
+gmdcsa24-0a6b6f6de4d03ad3,0.0,10.0,0,0,merged_labels.csv (user mapping),368
+gmdcsa24-0bc2a20fe2abd067,0.0,7.61181,9,0,merged_labels.csv (user mapping); merged same target class,243
+gmdcsa24-0bc2a20fe2abd067,7.612,10.21347,9,0,merged_labels.csv (user mapping),360
+gmdcsa24-0db26978f1ed38bf,0.0,1.0,0,0,merged_labels.csv (user mapping),390
+gmdcsa24-0db26978f1ed38bf,1.0,2.02,1,1,merged_labels.csv (user mapping),408
+gmdcsa24-0db26978f1ed38bf,2.02,4.58,2,2,merged_labels.csv (user mapping),430
+gmdcsa24-0e2e6d1444f3179b,0.0,1.0,8,0,merged_labels.csv (user mapping),251
+gmdcsa24-0e2e6d1444f3179b,1.0,3.86181,1,1,merged_labels.csv (user mapping),288
+gmdcsa24-0e2e6d1444f3179b,3.862,9.02597,2,2,merged_labels.csv (user mapping),331
+gmdcsa24-11d5ee65d9eff1be,0.0,11.02,9,0,merged_labels.csv (user mapping),98
+gmdcsa24-11d5ee65d9eff1be,11.02,13.66,8,0,merged_labels.csv (user mapping),241
+gmdcsa24-157753551ddfb966,0.0,1.52,9,0,merged_labels.csv (user mapping),112
+gmdcsa24-157753551ddfb966,1.52,2.88,8,0,merged_labels.csv (user mapping),154
+gmdcsa24-157753551ddfb966,2.88,6.4,1,1,merged_labels.csv (user mapping),172
+gmdcsa24-157753551ddfb966,6.4,10.22,2,2,merged_labels.csv (user mapping),213
+gmdcsa24-16986245851c3266,0.0,4.1,7,0,merged_labels.csv (user mapping),114
+gmdcsa24-16986245851c3266,4.1,5.94,0,0,merged_labels.csv (user mapping),188
+gmdcsa24-16986245851c3266,5.94,11.66,9,0,merged_labels.csv (user mapping),206
+gmdcsa24-16dafa35e6f897a2,0.0,7.52,9,0,merged_labels.csv (user mapping),7
+gmdcsa24-1939362505cb2310,0.0,0.017,8,0,merged_labels.csv (user mapping),28
+gmdcsa24-1939362505cb2310,0.017,2.274,1,1,merged_labels.csv (user mapping),33
+gmdcsa24-1939362505cb2310,2.274,5.694,2,2,merged_labels.csv (user mapping),62
+gmdcsa24-1b26626c712ca574,0.193,2.341,0,0,merged_labels.csv (user mapping),281
+gmdcsa24-1b26626c712ca574,2.341,11.96597,8,0,merged_labels.csv (user mapping),309
+gmdcsa24-1b26626c712ca574,11.966,12.439,0,0,merged_labels.csv (user mapping),366
+gmdcsa24-1b2e3dc48ca35bb2,0.0,1.92,4,0,merged_labels.csv (user mapping),385
+gmdcsa24-1b2e3dc48ca35bb2,1.92,3.78,1,1,merged_labels.csv (user mapping),429
+gmdcsa24-1b2e3dc48ca35bb2,3.78,7.4,2,2,merged_labels.csv (user mapping),449
+gmdcsa24-1bc1ee7a603bdcfa,0.0,12.12,9,0,merged_labels.csv (user mapping),109
+gmdcsa24-1c8f6fd231136de2,0.0,0.84,0,0,merged_labels.csv (user mapping),124
+gmdcsa24-1c8f6fd231136de2,0.84,3.74,5,0,merged_labels.csv (user mapping),146
+gmdcsa24-1c8f6fd231136de2,3.74,5.26,9,0,merged_labels.csv (user mapping),181
+gmdcsa24-1c8f6fd231136de2,5.26,7.0,1,1,merged_labels.csv (user mapping),200
+gmdcsa24-1c8f6fd231136de2,7.0,10.58,2,2,merged_labels.csv (user mapping),220
+gmdcsa24-1cb9348c069bba0b,0.0,3.52,4,0,merged_labels.csv (user mapping),14
+gmdcsa24-1edc542e9d11f35e,0.0,2.24,0,0,merged_labels.csv (user mapping),21
+gmdcsa24-1edc542e9d11f35e,2.24,4.5,1,1,merged_labels.csv (user mapping),61
+gmdcsa24-1edc542e9d11f35e,4.5,5.68,2,2,merged_labels.csv (user mapping),87
+gmdcsa24-211f1165c132a7a6,0.0,1.24,4,0,merged_labels.csv (user mapping),132
+gmdcsa24-211f1165c132a7a6,1.24,3.3,7,0,merged_labels.csv (user mapping),152
+gmdcsa24-211f1165c132a7a6,3.3,4.94,1,1,merged_labels.csv (user mapping),178
+gmdcsa24-211f1165c132a7a6,4.94,7.12,2,2,merged_labels.csv (user mapping),197
+gmdcsa24-24cbac3d1ba4421f,0.0,2.58,9,0,merged_labels.csv (user mapping),19
+gmdcsa24-24cbac3d1ba4421f,2.58,4.0,7,0,merged_labels.csv (user mapping),68
+gmdcsa24-24cbac3d1ba4421f,4.0,5.28,9,0,merged_labels.csv (user mapping),84
+gmdcsa24-24cbac3d1ba4421f,5.28,7.32,0,0,merged_labels.csv (user mapping),90
+gmdcsa24-2583522153ae3bf1,0.0,3.98,8,0,merged_labels.csv (user mapping),101
+gmdcsa24-2583522153ae3bf1,3.98,6.18,0,0,merged_labels.csv (user mapping),185
+gmdcsa24-2583522153ae3bf1,6.18,7.94,9,0,merged_labels.csv (user mapping),210
+gmdcsa24-2583522153ae3bf1,7.94,10.0,8,0,merged_labels.csv (user mapping),228
+gmdcsa24-258c7ad8ef679895,0.0,7.28,4,0,merged_labels.csv (user mapping),110
+gmdcsa24-25a230d4f35e5832,0.0,2.6,3,0,merged_labels.csv (user mapping),103
+gmdcsa24-25a230d4f35e5832,2.6,4.84,4,0,merged_labels.csv (user mapping),168
+gmdcsa24-25d4ef1e2a81afea,0.0,0.7,4,0,merged_labels.csv (user mapping),6
+gmdcsa24-25d4ef1e2a81afea,0.7,3.1,5,0,merged_labels.csv (user mapping),42
+gmdcsa24-25d4ef1e2a81afea,3.1,12.22,9,0,merged_labels.csv (user mapping),74
+gmdcsa24-29a9c0851d047164,0.0,1.08,1,1,merged_labels.csv (user mapping),398
+gmdcsa24-29a9c0851d047164,1.08,5.0,2,2,merged_labels.csv (user mapping),411
+gmdcsa24-2c3c671f147c5004,0.0,11.94,9,0,merged_labels.csv (user mapping),105
+gmdcsa24-2d7390403b9f9daf,0.0,1.7,0,0,merged_labels.csv (user mapping),123
+gmdcsa24-2d7390403b9f9daf,1.7,4.18,1,1,merged_labels.csv (user mapping),156
+gmdcsa24-2d7390403b9f9daf,4.18,11.14,2,2,merged_labels.csv (user mapping),189
+gmdcsa24-2d986dafc4d8bd14,0.0,7.77514,7,0,merged_labels.csv (user mapping); merged same target class; merged same target class,269
+gmdcsa24-2e852512f53da2dc,0.246,2.48681,3,0,merged_labels.csv (user mapping),283
+gmdcsa24-2e852512f53da2dc,2.487,8.85847,4,0,merged_labels.csv (user mapping); merged same target class; merged same target class,311
+gmdcsa24-2fc789ee82af50a1,0.0,2.06,9,0,merged_labels.csv (user mapping),138
+gmdcsa24-2fc789ee82af50a1,2.06,2.52,8,0,merged_labels.csv (user mapping),164
+gmdcsa24-2fc789ee82af50a1,2.52,4.26,1,1,merged_labels.csv (user mapping),167
+gmdcsa24-2fc789ee82af50a1,4.26,7.32,2,2,merged_labels.csv (user mapping),190
+gmdcsa24-30d8659e77cfceeb,0.0,1.9,8,0,merged_labels.csv (user mapping),262
+gmdcsa24-30d8659e77cfceeb,2.0,4.0282350000000005,1,1,merged_labels.csv (user mapping),305
+gmdcsa24-30d8659e77cfceeb,4.0282350000000005,5.70847,2,2,merged_labels.csv (user mapping),333
+gmdcsa24-32449ec79074c238,0.0,10.72,4,0,merged_labels.csv (user mapping),376
+gmdcsa24-32cdc27d60011c2e,0.0,3.28,9,0,merged_labels.csv (user mapping),131
+gmdcsa24-32cdc27d60011c2e,3.28,4.9,1,1,merged_labels.csv (user mapping),177
+gmdcsa24-32cdc27d60011c2e,4.9,7.54,2,2,merged_labels.csv (user mapping),196
+gmdcsa24-343a92ca252c4297,0.0,1.22,0,0,merged_labels.csv (user mapping),381
+gmdcsa24-343a92ca252c4297,1.22,9.9,9,0,merged_labels.csv (user mapping),415
+gmdcsa24-35ecdf3d1ae34824,0.0,2.25764,3,0,merged_labels.csv (user mapping),278
+gmdcsa24-35ecdf3d1ae34824,2.258,8.66764,4,0,merged_labels.csv (user mapping),307
+gmdcsa24-36373b1e62cd044f,0.0,2.36181,4,0,merged_labels.csv (user mapping),260
+gmdcsa24-36373b1e62cd044f,2.362,4.07007,7,0,merged_labels.csv (user mapping),310
+gmdcsa24-36373b1e62cd044f,4.07007,6.84097,1,1,merged_labels.csv (user mapping),334
+gmdcsa24-36373b1e62cd044f,6.841,11.89264,2,2,merged_labels.csv (user mapping),354
+gmdcsa24-37ffa31d2e960cc5,0.424,4.23681,0,0,merged_labels.csv (user mapping); merged same target class,403
+gmdcsa24-37ffa31d2e960cc5,4.237,6.25514,0,0,merged_labels.csv (user mapping),452
+gmdcsa24-39f5a46890a0bf0c,0.0,6.36,9,0,merged_labels.csv (user mapping),133
+gmdcsa24-39f5a46890a0bf0c,6.36,9.16,1,1,merged_labels.csv (user mapping),212
+gmdcsa24-39f5a46890a0bf0c,9.16,12.24,2,2,merged_labels.csv (user mapping),232
+gmdcsa24-3b7054b56999787c,0.0,0.98,7,0,merged_labels.csv (user mapping),99
+gmdcsa24-3b7054b56999787c,0.98,3.14,0,0,merged_labels.csv (user mapping),149
+gmdcsa24-3b7054b56999787c,3.14,6.76,3,0,merged_labels.csv (user mapping),173
+gmdcsa24-3b7054b56999787c,6.76,10.96,4,0,merged_labels.csv (user mapping),218
+gmdcsa24-3cff0548090d0bd3,0.0,0.96,7,0,merged_labels.csv (user mapping),100
+gmdcsa24-3cff0548090d0bd3,0.96,4.78,0,0,merged_labels.csv (user mapping),148
+gmdcsa24-3cff0548090d0bd3,4.78,6.68,9,0,merged_labels.csv (user mapping),194
+gmdcsa24-3cff0548090d0bd3,6.68,7.573,8,0,merged_labels.csv (user mapping),216
+gmdcsa24-401fb107054f23af,0.0,4.6,0,0,merged_labels.csv (user mapping),256
+gmdcsa24-401fb107054f23af,4.6,8.1,8,0,merged_labels.csv (user mapping),340
+gmdcsa24-401fb107054f23af,8.1,10.25764,1,1,merged_labels.csv (user mapping),361
+gmdcsa24-401fb107054f23af,10.258,12.31431,2,2,merged_labels.csv (user mapping),365
+gmdcsa24-42a51ab4767d60ae,0.0,0.4,4,0,merged_labels.csv (user mapping),4
+gmdcsa24-42a51ab4767d60ae,0.4,1.9,5,0,merged_labels.csv (user mapping),36
+gmdcsa24-42a51ab4767d60ae,1.9,6.7,6,0,merged_labels.csv (user mapping),56
+gmdcsa24-42abf349165ad69f,0.0,1.73681,1,1,merged_labels.csv (user mapping),245
+gmdcsa24-42abf349165ad69f,1.737,3.79764,2,2,merged_labels.csv (user mapping),301
+gmdcsa24-442fdb7ba5aeae99,0.255,6.50514,9,0,merged_labels.csv (user mapping); merged same target class; merged same target class; merged same target class,284
+gmdcsa24-46b4c1b6f1696ea5,0.0,0.64,8,0,merged_labels.csv (user mapping),116
+gmdcsa24-46b4c1b6f1696ea5,0.64,5.34,9,0,merged_labels.csv (user mapping),144
+gmdcsa24-46b4c1b6f1696ea5,6.6,10.52,0,0,merged_labels.csv (user mapping),215
+gmdcsa24-47e325729eb3a37b,0.173,1.21597,9,0,merged_labels.csv (user mapping),279
+gmdcsa24-47e325729eb3a37b,1.216,3.00764,8,0,merged_labels.csv (user mapping),291
+gmdcsa24-47e325729eb3a37b,3.008,5.09097,0,0,merged_labels.csv (user mapping),322
+gmdcsa24-47e325729eb3a37b,5.091,7.38264,1,1,merged_labels.csv (user mapping),346
+gmdcsa24-47e325729eb3a37b,7.383,9.17014,2,2,merged_labels.csv (user mapping),359
+gmdcsa24-4af2a446f25b5f63,0.0,1.8,8,0,merged_labels.csv (user mapping),257
+gmdcsa24-4af2a446f25b5f63,1.9,4.25764,1,1,merged_labels.csv (user mapping),303
+gmdcsa24-4af2a446f25b5f63,4.258,5.638,2,2,merged_labels.csv (user mapping),336
+gmdcsa24-4d37a93b1ea9b83d,0.0,0.76,0,0,merged_labels.csv (user mapping),23
+gmdcsa24-4d37a93b1ea9b83d,0.76,2.4,1,1,merged_labels.csv (user mapping),45
+gmdcsa24-4d37a93b1ea9b83d,2.4,4.34,2,2,merged_labels.csv (user mapping),65
+gmdcsa24-4e40f19db03ba030,0.0,2.6,0,0,merged_labels.csv (user mapping),111
+gmdcsa24-4e40f19db03ba030,2.6,4.68,1,1,merged_labels.csv (user mapping),169
+gmdcsa24-4e40f19db03ba030,4.68,8.44,2,2,merged_labels.csv (user mapping),193
+gmdcsa24-52a3c1b378a4eb05,0.0,3.0,8,0,merged_labels.csv (user mapping),249
+gmdcsa24-52a3c1b378a4eb05,3.2,5.21597,1,1,merged_labels.csv (user mapping),325
+gmdcsa24-52a3c1b378a4eb05,5.216,10.04681,2,2,merged_labels.csv (user mapping),348
+gmdcsa24-52cd2c17999f0eaa,0.0,1.14,4,0,merged_labels.csv (user mapping),16
+gmdcsa24-52cd2c17999f0eaa,1.14,2.78,1,1,merged_labels.csv (user mapping),50
+gmdcsa24-52cd2c17999f0eaa,2.78,6.38,2,2,merged_labels.csv (user mapping),71
+gmdcsa24-537fc91b88a8d435,0.0,0.5,0,0,merged_labels.csv (user mapping),274
+gmdcsa24-537fc91b88a8d435,0.6,6.23681,3,0,merged_labels.csv (user mapping); merged same target class; merged same target class,287
+gmdcsa24-537fc91b88a8d435,6.237,11.10597,4,0,merged_labels.csv (user mapping),353
+gmdcsa24-5411a6f524b86e9c,0.0,1.0,0,0,merged_labels.csv (user mapping),107
+gmdcsa24-5411a6f524b86e9c,1.0,7.82,9,0,merged_labels.csv (user mapping),150
+gmdcsa24-5411a6f524b86e9c,7.82,11.66,8,0,merged_labels.csv (user mapping),226
+gmdcsa24-57adf97aca50d745,0.0,4.98,9,0,merged_labels.csv (user mapping),9
+gmdcsa24-59e945a66f0530e9,0.0,13.0,4,0,merged_labels.csv (user mapping),369
+gmdcsa24-59f14723a851f61d,0.0,1.78,9,0,merged_labels.csv (user mapping),120
+gmdcsa24-59f14723a851f61d,1.78,3.48,1,1,merged_labels.csv (user mapping),158
+gmdcsa24-59f14723a851f61d,3.48,4.52,2,2,merged_labels.csv (user mapping),180
+gmdcsa24-5bdd3060c2917aab,0.0,0.9,0,0,merged_labels.csv (user mapping),130
+gmdcsa24-5bdd3060c2917aab,0.9,2.46,1,1,merged_labels.csv (user mapping),147
+gmdcsa24-5bdd3060c2917aab,2.46,5.2,2,2,merged_labels.csv (user mapping),166
+gmdcsa24-5ca6aa316c0d0a55,0.0,0.72,4,0,merged_labels.csv (user mapping),18
+gmdcsa24-5ca6aa316c0d0a55,0.72,3.06,1,1,merged_labels.csv (user mapping),43
+gmdcsa24-5ca6aa316c0d0a55,3.06,4.98,2,2,merged_labels.csv (user mapping),73
+gmdcsa24-5e8c40d29d5c9158,0.0,0.44,4,0,merged_labels.csv (user mapping),12
+gmdcsa24-5e8c40d29d5c9158,0.44,1.62,7,0,merged_labels.csv (user mapping),37
+gmdcsa24-5e8c40d29d5c9158,1.62,4.18,0,0,merged_labels.csv (user mapping),53
+gmdcsa24-5e8c40d29d5c9158,4.18,5.86,8,0,merged_labels.csv (user mapping),85
+gmdcsa24-5ed6f4f493c26629,0.0,1.92,1,1,merged_labels.csv (user mapping),32
+gmdcsa24-5ed6f4f493c26629,1.92,4.32,2,2,merged_labels.csv (user mapping),57
+gmdcsa24-6041888183d3a4bd,0.0,1.32,3,0,merged_labels.csv (user mapping),394
+gmdcsa24-6041888183d3a4bd,1.32,14.1,9,0,merged_labels.csv (user mapping),417
+gmdcsa24-631bde5df91b532e,0.0,1.653235,9,0,merged_labels.csv (user mapping),261
+gmdcsa24-631bde5df91b532e,1.653235,4.25597,1,1,merged_labels.csv (user mapping),296
+gmdcsa24-65b90278d128e2c0,0.0,6.14,4,0,merged_labels.csv (user mapping),135
+gmdcsa24-65b90278d128e2c0,6.14,9.54,1,1,merged_labels.csv (user mapping),209
+gmdcsa24-65b90278d128e2c0,9.54,11.66,2,2,merged_labels.csv (user mapping),235
+gmdcsa24-66002071d7df9b2c,0.0,1.98,4,0,merged_labels.csv (user mapping),95
+gmdcsa24-66002071d7df9b2c,1.98,4.3,7,0,merged_labels.csv (user mapping),163
+gmdcsa24-66002071d7df9b2c,4.3,5.66,0,0,merged_labels.csv (user mapping),191
+gmdcsa24-66002071d7df9b2c,5.66,7.5,9,0,merged_labels.csv (user mapping),204
+gmdcsa24-66002071d7df9b2c,7.5,10.38,0,0,merged_labels.csv (user mapping),223
+gmdcsa24-66002071d7df9b2c,10.38,10.823,3,0,merged_labels.csv (user mapping),239
+gmdcsa24-667dd090e97bd443,0.0,3.71597,5,0,merged_labels.csv (user mapping),277
+gmdcsa24-667dd090e97bd443,3.716,4.896,6,0,merged_labels.csv (user mapping),328
+gmdcsa24-66dd7880dd19458c,0.0,1.88,9,0,merged_labels.csv (user mapping),395
+gmdcsa24-66dd7880dd19458c,1.88,3.2,3,0,merged_labels.csv (user mapping),427
+gmdcsa24-66dd7880dd19458c,3.2,17.54,9,0,merged_labels.csv (user mapping),443
+gmdcsa24-681164e964757b98,0.0,7.68,4,0,merged_labels.csv (user mapping),271
+gmdcsa24-6987979368ec2c39,0.0,5.34014,5,0,merged_labels.csv (user mapping); merged same target class,380
+gmdcsa24-6bdd0144c5b8ac65,0.0,5.44514,4,0,merged_labels.csv (user mapping),378
+gmdcsa24-6f01f86ff2fe44fc,0.0,5.1,9,0,merged_labels.csv (user mapping),268
+gmdcsa24-6f01f86ff2fe44fc,5.1,7.13264,3,0,merged_labels.csv (user mapping),347
+gmdcsa24-6f01f86ff2fe44fc,7.133,8.94014,4,0,merged_labels.csv (user mapping),358
+gmdcsa24-6fe3f118a4f05924,0.0,5.48681,7,0,merged_labels.csv (user mapping); merged same target class,373
+gmdcsa24-6fe3f118a4f05924,5.487,7.48681,9,0,merged_labels.csv (user mapping),454
+gmdcsa24-6fe3f118a4f05924,7.487,8.487,4,0,merged_labels.csv (user mapping),458
+gmdcsa24-6fe3f118a4f05924,8.5,12.34097,9,0,merged_labels.csv (user mapping),459
+gmdcsa24-710d43badb2b613e,0.0,4.46597,4,0,merged_labels.csv (user mapping),377
+gmdcsa24-710d43badb2b613e,4.5,8.59097,9,0,merged_labels.csv (user mapping),453
+gmdcsa24-750df5d2597d57b4,0.0,1.50764,4,0,merged_labels.csv (user mapping),273
+gmdcsa24-750df5d2597d57b4,1.508,4.75764,9,0,merged_labels.csv (user mapping),295
+gmdcsa24-750df5d2597d57b4,4.758,12.14931,4,0,merged_labels.csv (user mapping),342
+gmdcsa24-757fd5fee221d589,0.0,0.66,4,0,merged_labels.csv (user mapping),386
+gmdcsa24-757fd5fee221d589,0.66,3.74,1,1,merged_labels.csv (user mapping),404
+gmdcsa24-757fd5fee221d589,3.74,6.12,2,2,merged_labels.csv (user mapping),448
+gmdcsa24-76a8c29a0c22a9cf,0.0,1.9,0,0,merged_labels.csv (user mapping),127
+gmdcsa24-76a8c29a0c22a9cf,1.9,2.154,8,0,merged_labels.csv (user mapping),161
+gmdcsa24-76a8c29a0c22a9cf,2.154,3.808,1,1,merged_labels.csv (user mapping),165
+gmdcsa24-76a8c29a0c22a9cf,3.808,6.488,2,2,merged_labels.csv (user mapping),184
+gmdcsa24-7a5fd89e9af2b385,0.0,1.18,4,0,merged_labels.csv (user mapping),392
+gmdcsa24-7a5fd89e9af2b385,1.18,2.58,1,1,merged_labels.csv (user mapping),414
+gmdcsa24-7a5fd89e9af2b385,2.58,4.84,2,2,merged_labels.csv (user mapping),437
+gmdcsa24-7a92ee002eb059d0,0.0,4.98514,9,0,merged_labels.csv (user mapping),372
+gmdcsa24-7c7a97fe609c3815,0.0,8.75064,4,0,merged_labels.csv (user mapping),264
+gmdcsa24-7d8eb81b4310685f,0.0,4.9,8,0,merged_labels.csv (user mapping),129
+gmdcsa24-7d8eb81b4310685f,4.9,6.1,0,0,merged_labels.csv (user mapping),195
+gmdcsa24-7d8eb81b4310685f,6.2,7.4,1,1,merged_labels.csv (user mapping),211
+gmdcsa24-7d8eb81b4310685f,7.4,9.5,2,2,merged_labels.csv (user mapping),222
+gmdcsa24-81db8ae0f4ccd483,0.0,1.56,4,0,merged_labels.csv (user mapping),388
+gmdcsa24-81db8ae0f4ccd483,1.56,3.0,1,1,merged_labels.csv (user mapping),425
+gmdcsa24-81db8ae0f4ccd483,3.0,6.24,2,2,merged_labels.csv (user mapping),442
+gmdcsa24-831e80d399158c5a,0.0,9.0,4,0,merged_labels.csv (user mapping),244
+gmdcsa24-85a3cf5eb08804ef,0.214,1.67431,9,0,merged_labels.csv (user mapping),282
+gmdcsa24-85a3cf5eb08804ef,1.7,2.674155,1,1,merged_labels.csv (user mapping),299
+gmdcsa24-85a3cf5eb08804ef,2.674155,4.38014,2,2,merged_labels.csv (user mapping),317
+gmdcsa24-861ad9c69afd145a,0.0,1.34097,8,0,merged_labels.csv (user mapping),247
+gmdcsa24-861ad9c69afd145a,1.341,4.09097,1,1,merged_labels.csv (user mapping),293
+gmdcsa24-861ad9c69afd145a,4.091,5.62847,2,2,merged_labels.csv (user mapping),335
+gmdcsa24-868684726970ae17,0.0,0.58,0,0,merged_labels.csv (user mapping),117
+gmdcsa24-868684726970ae17,0.58,4.04,1,1,merged_labels.csv (user mapping),141
+gmdcsa24-868684726970ae17,4.04,6.36,2,2,merged_labels.csv (user mapping),186
+gmdcsa24-87209f944b2bb30d,0.0,1.0,0,0,merged_labels.csv (user mapping),22
+gmdcsa24-87209f944b2bb30d,1.0,2.74,1,1,merged_labels.csv (user mapping),48
+gmdcsa24-87209f944b2bb30d,2.74,5.14,2,2,merged_labels.csv (user mapping),70
+gmdcsa24-89aa42d1f2f7e6da,0.0,0.75764,7,0,merged_labels.csv (user mapping),379
+gmdcsa24-89aa42d1f2f7e6da,0.758,1.48681,0,0,merged_labels.csv (user mapping),406
+gmdcsa24-89aa42d1f2f7e6da,1.487,7.23681,9,0,merged_labels.csv (user mapping),423
+gmdcsa24-89aa42d1f2f7e6da,7.237,8.317,8,0,merged_labels.csv (user mapping),457
+gmdcsa24-8a857422184956fe,0.0,1.1741549999999998,4,0,merged_labels.csv (user mapping),255
+gmdcsa24-8a857422184956fe,1.1741549999999998,2.57007,1,1,merged_labels.csv (user mapping),289
+gmdcsa24-8a857422184956fe,2.57007,4.04181,2,2,merged_labels.csv (user mapping),313
+gmdcsa24-8b674aa22e81a692,0.0,8.24,9,0,merged_labels.csv (user mapping),97
+gmdcsa24-8b674aa22e81a692,8.24,13.0,8,0,merged_labels.csv (user mapping),229
+gmdcsa24-8ba0f56f912018a5,0.0,0.4,4,0,merged_labels.csv (user mapping),3
+gmdcsa24-8ba0f56f912018a5,0.4,2.58,5,0,merged_labels.csv (user mapping),35
+gmdcsa24-8ba0f56f912018a5,2.58,6.68,6,0,merged_labels.csv (user mapping),67
+gmdcsa24-8c17c9611216a704,0.0,1.76,0,0,merged_labels.csv (user mapping),31
+gmdcsa24-8c17c9611216a704,1.76,3.6,1,1,merged_labels.csv (user mapping),55
+gmdcsa24-8c17c9611216a704,3.6,5.84,2,2,merged_labels.csv (user mapping),78
+gmdcsa24-8f2424ac9ba93ed4,0.0,1.9,9,0,merged_labels.csv (user mapping),119
+gmdcsa24-8f2424ac9ba93ed4,1.9,4.08,1,1,merged_labels.csv (user mapping),160
+gmdcsa24-8f2424ac9ba93ed4,4.08,6.5,2,2,merged_labels.csv (user mapping),187
+gmdcsa24-90b39d6b096f0dc5,0.0,1.697,1,1,merged_labels.csv (user mapping),250
+gmdcsa24-90b39d6b096f0dc5,1.697,5.58681,2,2,merged_labels.csv (user mapping),298
+gmdcsa24-90bc3690285e178c,0.0,1.44,6,0,merged_labels.csv (user mapping),383
+gmdcsa24-90bc3690285e178c,1.44,2.24,1,1,merged_labels.csv (user mapping),421
+gmdcsa24-90bc3690285e178c,2.24,2.984,2,2,merged_labels.csv (user mapping),434
+gmdcsa24-925d6481e1bbb817,0.0,1.28,0,0,merged_labels.csv (user mapping),13
+gmdcsa24-925d6481e1bbb817,1.28,3.12,9,0,merged_labels.csv (user mapping),51
+gmdcsa24-925d6481e1bbb817,3.12,4.74,3,0,merged_labels.csv (user mapping),75
+gmdcsa24-925d6481e1bbb817,4.74,7.16,4,0,merged_labels.csv (user mapping),89
+gmdcsa24-9314980c38a7fd51,0.0,10.26,4,0,merged_labels.csv (user mapping),272
+gmdcsa24-9327266ab6b1443d,0.0,1.76,5,0,merged_labels.csv (user mapping),118
+gmdcsa24-9327266ab6b1443d,1.76,7.04,6,0,merged_labels.csv (user mapping),157
+gmdcsa24-94513dd7b71b0111,0.0,1.48,9,0,merged_labels.csv (user mapping),397
+gmdcsa24-94513dd7b71b0111,1.48,2.86,1,1,merged_labels.csv (user mapping),422
+gmdcsa24-94513dd7b71b0111,2.86,5.06,2,2,merged_labels.csv (user mapping),440
+gmdcsa24-9e91b81aa64e177d,0.0,1.2,0,0,merged_labels.csv (user mapping),248
+gmdcsa24-9e91b81aa64e177d,1.2,2.88264,1,1,merged_labels.csv (user mapping),290
+gmdcsa24-9e91b81aa64e177d,2.883,5.46014,2,2,merged_labels.csv (user mapping),320
+gmdcsa24-9ea9d612a311855b,0.0,1.42,4,0,merged_labels.csv (user mapping),389
+gmdcsa24-9ea9d612a311855b,1.42,2.7,1,1,merged_labels.csv (user mapping),419
+gmdcsa24-9ea9d612a311855b,2.7,6.06,2,2,merged_labels.csv (user mapping),439
+gmdcsa24-a066ca94f30ff683,0.0,0.72,8,0,merged_labels.csv (user mapping),25
+gmdcsa24-a066ca94f30ff683,0.72,2.34,1,1,merged_labels.csv (user mapping),44
+gmdcsa24-a066ca94f30ff683,2.34,4.48,2,2,merged_labels.csv (user mapping),64
+gmdcsa24-a10d77dc6695a11d,0.0,9.34097,4,0,merged_labels.csv (user mapping),275
+gmdcsa24-a148a74321f42af5,0.0,1.22,0,0,merged_labels.csv (user mapping),387
+gmdcsa24-a148a74321f42af5,1.22,2.06,9,0,merged_labels.csv (user mapping),416
+gmdcsa24-a148a74321f42af5,2.06,3.38,1,1,merged_labels.csv (user mapping),432
+gmdcsa24-a148a74321f42af5,3.38,6.3,2,2,merged_labels.csv (user mapping),445
+gmdcsa24-a1fb6e6e9b596d72,0.194,1.11181,3,0,merged_labels.csv (user mapping),400
+gmdcsa24-a1fb6e6e9b596d72,1.112,8.98181,4,0,merged_labels.csv (user mapping),412
+gmdcsa24-a216d0e9f46be6fa,1.0,2.08,0,0,merged_labels.csv (user mapping),47
+gmdcsa24-a216d0e9f46be6fa,2.08,3.78,3,0,merged_labels.csv (user mapping),59
+gmdcsa24-a216d0e9f46be6fa,3.78,10.54,9,0,merged_labels.csv (user mapping),80
+gmdcsa24-a7b8d1c1d98043e5,0.0,2.2,0,0,merged_labels.csv (user mapping),263
+gmdcsa24-a7b8d1c1d98043e5,2.3,4.01798,1,1,merged_labels.csv (user mapping),308
+gmdcsa24-a7b8d1c1d98043e5,4.018,6.22325,2,2,merged_labels.csv (user mapping),332
+gmdcsa24-a83fa37e8f90946a,0.0,11.84,4,0,merged_labels.csv (user mapping),92
+gmdcsa24-a849b3a1c2e9fc52,0.0,12.0,4,0,merged_labels.csv (user mapping),374
+gmdcsa24-a982eccf2930030e,0.0,0.52,8,0,merged_labels.csv (user mapping),26
+gmdcsa24-a982eccf2930030e,0.52,2.7,1,1,merged_labels.csv (user mapping),39
+gmdcsa24-a982eccf2930030e,2.7,6.08,2,2,merged_labels.csv (user mapping),69
+gmdcsa24-abcce0b7f544d1b3,0.0,0.46,7,0,merged_labels.csv (user mapping),96
+gmdcsa24-abcce0b7f544d1b3,0.46,1.36,0,0,merged_labels.csv (user mapping),140
+gmdcsa24-abcce0b7f544d1b3,1.36,5.08,9,0,merged_labels.csv (user mapping),153
+gmdcsa24-abcce0b7f544d1b3,5.08,6.08,8,0,merged_labels.csv (user mapping),198
+gmdcsa24-abcce0b7f544d1b3,6.08,8.76,0,0,merged_labels.csv (user mapping),208
+gmdcsa24-abcce0b7f544d1b3,8.76,10.74,3,0,merged_labels.csv (user mapping),231
+gmdcsa24-adf2215ab24e7469,0.0,3.92,9,0,merged_labels.csv (user mapping),10
+gmdcsa24-b075db7097e5d078,0.0,0.36181,6,0,merged_labels.csv (user mapping),266
+gmdcsa24-b075db7097e5d078,0.362,7.09097,7,0,merged_labels.csv (user mapping); merged same target class; merged same target class,286
+gmdcsa24-b075db7097e5d078,7.091,8.50764,7,0,merged_labels.csv (user mapping),355
+gmdcsa24-b075db7097e5d078,8.508,9.908,0,0,merged_labels.csv (user mapping),362
+gmdcsa24-b10ca198bd302df5,0.0,1.66,8,0,merged_labels.csv (user mapping),27
+gmdcsa24-b10ca198bd302df5,1.66,3.78,1,1,merged_labels.csv (user mapping),54
+gmdcsa24-b10ca198bd302df5,3.78,6.86,2,2,merged_labels.csv (user mapping),81
+gmdcsa24-b420b8299ef1bd1f,0.0,1.0,9,0,merged_labels.csv (user mapping),134
+gmdcsa24-b420b8299ef1bd1f,1.0,1.78,0,0,merged_labels.csv (user mapping),151
+gmdcsa24-b420b8299ef1bd1f,1.78,5.2,1,1,merged_labels.csv (user mapping),159
+gmdcsa24-b420b8299ef1bd1f,5.2,8.9,2,2,merged_labels.csv (user mapping),199
+gmdcsa24-b442fcc5e8404c5a,0.0,3.4,4,0,merged_labels.csv (user mapping),253
+gmdcsa24-b442fcc5e8404c5a,3.3,3.8085,1,1,merged_labels.csv (user mapping),327
+gmdcsa24-b442fcc5e8404c5a,3.8085,6.21264,2,2,Human review: User confirms first two shown frames are falling and final shown frame at displayed 3.800s is fallen,-1
+gmdcsa24-b4444caec5b75b9b,0.0,0.64,8,0,merged_labels.csv (user mapping),24
+gmdcsa24-b4444caec5b75b9b,0.64,2.16,1,1,merged_labels.csv (user mapping),41
+gmdcsa24-b4444caec5b75b9b,2.16,4.48,2,2,merged_labels.csv (user mapping),60
+gmdcsa24-b52df075f4170d2e,0.0,0.62,0,0,merged_labels.csv (user mapping),93
+gmdcsa24-b52df075f4170d2e,0.62,4.58,9,0,merged_labels.csv (user mapping),142
+gmdcsa24-b52df075f4170d2e,4.58,6.7,3,0,merged_labels.csv (user mapping),192
+gmdcsa24-b52df075f4170d2e,6.7,10.5,5,0,merged_labels.csv (user mapping),217
+gmdcsa24-b52df075f4170d2e,10.5,11.94,6,0,merged_labels.csv (user mapping),240
+gmdcsa24-b60585013f64486e,0.0,5.16,9,0,merged_labels.csv (user mapping),267
+gmdcsa24-b744f5ba35136c94,0.0,2.61181,1,1,merged_labels.csv (user mapping),252
+gmdcsa24-b744f5ba35136c94,2.612,6.33347,2,2,merged_labels.csv (user mapping),315
+gmdcsa24-bab3c9ee6ccdcc8a,0.0,0.64,8,0,merged_labels.csv (user mapping),20
+gmdcsa24-bab3c9ee6ccdcc8a,0.64,2.52,0,0,merged_labels.csv (user mapping),40
+gmdcsa24-bab3c9ee6ccdcc8a,2.52,3.86,3,0,merged_labels.csv (user mapping),66
+gmdcsa24-bab3c9ee6ccdcc8a,3.86,6.3,4,0,merged_labels.csv (user mapping),82
+gmdcsa24-be38c441876af65a,0.0,0.44,0,0,merged_labels.csv (user mapping),126
+gmdcsa24-be38c441876af65a,0.44,1.92,1,1,merged_labels.csv (user mapping),139
+gmdcsa24-be38c441876af65a,1.92,4.0,2,2,merged_labels.csv (user mapping),162
+gmdcsa24-c0c7f5e6c4cd7fab,0.0,0.26,4,0,merged_labels.csv (user mapping),29
+gmdcsa24-c0c7f5e6c4cd7fab,0.26,3.62,1,1,merged_labels.csv (user mapping),34
+gmdcsa24-c0c7f5e6c4cd7fab,3.62,6.0,2,2,merged_labels.csv (user mapping),79
+gmdcsa24-c1a86cc30a32c1ab,0.0,1.14,6,0,merged_labels.csv (user mapping),5
+gmdcsa24-c1a86cc30a32c1ab,1.14,3.58,7,0,merged_labels.csv (user mapping),49
+gmdcsa24-c1a86cc30a32c1ab,3.58,5.84,4,0,merged_labels.csv (user mapping),77
+gmdcsa24-c62e0b179cdca1da,0.0,3.38,9,0,merged_labels.csv (user mapping),115
+gmdcsa24-c62e0b179cdca1da,3.38,6.52,3,0,merged_labels.csv (user mapping),179
+gmdcsa24-c62e0b179cdca1da,6.52,10.22,9,0,merged_labels.csv (user mapping),214
+gmdcsa24-c62e0b179cdca1da,10.22,11.66,4,0,merged_labels.csv (user mapping),237
+gmdcsa24-c8cbeb0258452b7f,0.0,0.8,4,0,merged_labels.csv (user mapping),17
+gmdcsa24-c8cbeb0258452b7f,0.8,3.28,1,1,merged_labels.csv (user mapping),46
+gmdcsa24-c8cbeb0258452b7f,3.28,5.92,2,2,merged_labels.csv (user mapping),76
+gmdcsa24-cdd14d4c84223f62,0.0,6.96,9,0,merged_labels.csv (user mapping),128
+gmdcsa24-cdd14d4c84223f62,6.96,9.48,1,1,merged_labels.csv (user mapping),219
+gmdcsa24-cdd14d4c84223f62,9.48,11.46,2,2,merged_labels.csv (user mapping),234
+gmdcsa24-ce9de5fae03b8ee0,0.0,2.7,0,0,merged_labels.csv (user mapping),270
+gmdcsa24-ce9de5fae03b8ee0,2.7,12.0,9,0,merged_labels.csv (user mapping),319
+gmdcsa24-cf63a5e4400d14a9,0.176,1.67958,9,0,merged_labels.csv (user mapping),280
+gmdcsa24-cf63a5e4400d14a9,1.68,2.20458,8,0,merged_labels.csv (user mapping),297
+gmdcsa24-cf63a5e4400d14a9,2.205,3.345,9,0,merged_labels.csv (user mapping),306
+gmdcsa24-d0e0c8e51b44f5bb,0.0,0.5,4,0,merged_labels.csv (user mapping),2
+gmdcsa24-d0e0c8e51b44f5bb,0.5,2.8,5,0,merged_labels.csv (user mapping),38
+gmdcsa24-d0e0c8e51b44f5bb,2.8,8.26,6,0,merged_labels.csv (user mapping),72
+gmdcsa24-d1060a38903e839c,0.0,1.14,8,0,merged_labels.csv (user mapping),382
+gmdcsa24-d1060a38903e839c,1.14,2.44,1,1,merged_labels.csv (user mapping),413
+gmdcsa24-d1060a38903e839c,2.44,4.66,2,2,merged_labels.csv (user mapping),436
+gmdcsa24-d1bedc3e0bbcd41e,0.0,2.62,9,0,merged_labels.csv (user mapping),121
+gmdcsa24-d1bedc3e0bbcd41e,2.62,3.76,1,1,merged_labels.csv (user mapping),170
+gmdcsa24-d1bedc3e0bbcd41e,3.76,6.08,2,2,merged_labels.csv (user mapping),182
+gmdcsa24-d4cb82f7540df864,0.0,1.4,4,0,merged_labels.csv (user mapping),259
+gmdcsa24-d4cb82f7540df864,1.4,3.153235,1,1,merged_labels.csv (user mapping),294
+gmdcsa24-d4cb82f7540df864,3.153235,8.51847,2,2,merged_labels.csv (user mapping),323
+gmdcsa24-d89dd900076a9cfe,0.24,2.98,0,0,merged_labels.csv (user mapping),402
+gmdcsa24-d89dd900076a9cfe,2.98,4.08,1,1,merged_labels.csv (user mapping),441
+gmdcsa24-d89dd900076a9cfe,4.08,7.1,2,2,merged_labels.csv (user mapping),451
+gmdcsa24-d97868917c43f2e4,0.0,9.12847,9,0,merged_labels.csv (user mapping),265
+gmdcsa24-d9d447ff815a7edf,0.0,0.71597,0,0,merged_labels.csv (user mapping),371
+gmdcsa24-d9d447ff815a7edf,0.716,6.56847,9,0,merged_labels.csv (user mapping),405
+gmdcsa24-dbf46828d32cfef4,0.0,5.8,4,0,merged_labels.csv (user mapping),91
+gmdcsa24-dbf46828d32cfef4,5.8,7.9,7,0,merged_labels.csv (user mapping),205
+gmdcsa24-dbf46828d32cfef4,7.9,11.4,0,0,merged_labels.csv (user mapping),227
+gmdcsa24-dd144cc9064e7fae,0.0,2.14,4,0,merged_labels.csv (user mapping),393
+gmdcsa24-dd144cc9064e7fae,2.14,3.48,1,1,merged_labels.csv (user mapping),433
+gmdcsa24-dd144cc9064e7fae,3.48,6.94,2,2,merged_labels.csv (user mapping),446
+gmdcsa24-de6eeed1f3765dbf,0.322,2.88264,3,0,merged_labels.csv (user mapping),285
+gmdcsa24-de6eeed1f3765dbf,2.883,6.21597,4,0,merged_labels.csv (user mapping),321
+gmdcsa24-de6eeed1f3765dbf,6.216,10.67181,7,0,merged_labels.csv (user mapping); merged same target class,352
+gmdcsa24-e079b980c37019da,0.0,0.62,0,0,merged_labels.csv (user mapping),108
+gmdcsa24-e079b980c37019da,0.62,2.74,3,0,merged_labels.csv (user mapping),143
+gmdcsa24-e079b980c37019da,2.74,11.34,9,0,merged_labels.csv (user mapping),171
+gmdcsa24-e5fbdbd3a61d8cd0,0.0,7.38,0,0,merged_labels.csv (user mapping); merged same target class,370
+gmdcsa24-ea2615e97ec168f5,0.0,7.32,9,0,merged_labels.csv (user mapping),136
+gmdcsa24-ea2615e97ec168f5,7.32,9.46,8,0,merged_labels.csv (user mapping),221
+gmdcsa24-ea2615e97ec168f5,9.46,11.16,1,1,merged_labels.csv (user mapping),233
+gmdcsa24-ea2615e97ec168f5,11.16,11.553,2,2,merged_labels.csv (user mapping),242
+gmdcsa24-ed2823ac49291298,0.0,7.78,9,0,merged_labels.csv (user mapping),106
+gmdcsa24-ed2823ac49291298,7.78,10.24,5,0,merged_labels.csv (user mapping),225
+gmdcsa24-ed2823ac49291298,10.24,11.6,6,0,merged_labels.csv (user mapping),238
+gmdcsa24-ed3dc9acc8f9d342,0.0,1.04,0,0,merged_labels.csv (user mapping),396
+gmdcsa24-ed3dc9acc8f9d342,1.04,2.04,1,1,merged_labels.csv (user mapping),409
+gmdcsa24-ed3dc9acc8f9d342,2.04,4.76,2,2,merged_labels.csv (user mapping),431
+gmdcsa24-eda969950e39e53b,0.0,1.7,0,0,merged_labels.csv (user mapping),258
+gmdcsa24-eda969950e39e53b,1.7,3.778235,1,1,merged_labels.csv (user mapping),300
+gmdcsa24-eda969950e39e53b,3.778235,6.06181,2,2,merged_labels.csv (user mapping),329
+gmdcsa24-ee7a329a298f1842,0.0,6.08,9,0,merged_labels.csv (user mapping),94
+gmdcsa24-ee7a329a298f1842,6.08,7.86,8,0,merged_labels.csv (user mapping),207
+gmdcsa24-ef2359f23b5ff3af,0.0,5.58,9,0,merged_labels.csv (user mapping),137
+gmdcsa24-ef2359f23b5ff3af,5.58,7.6,8,0,merged_labels.csv (user mapping),203
+gmdcsa24-ef2359f23b5ff3af,7.6,9.7,1,1,merged_labels.csv (user mapping),224
+gmdcsa24-ef2359f23b5ff3af,9.7,15.52,2,2,merged_labels.csv (user mapping),236
+gmdcsa24-f12f5fe7b512cd8d,0.0,3.2,8,0,merged_labels.csv (user mapping),125
+gmdcsa24-f12f5fe7b512cd8d,3.2,5.44,1,1,merged_labels.csv (user mapping),174
+gmdcsa24-f12f5fe7b512cd8d,5.44,11.22,2,2,merged_labels.csv (user mapping),201
+gmdcsa24-f3ecf3036e70cbe8,0.0,1.3,0,0,merged_labels.csv (user mapping),246
+gmdcsa24-f3ecf3036e70cbe8,1.3,2.2,8,0,merged_labels.csv (user mapping),292
+gmdcsa24-f3ecf3036e70cbe8,2.6,4.36181,1,1,merged_labels.csv (user mapping),314
+gmdcsa24-f3ecf3036e70cbe8,4.362,6.56847,2,2,merged_labels.csv (user mapping),337
+gmdcsa24-f3ee1221dde11f9f,0.0,3.26,1,1,merged_labels.csv (user mapping),399
+gmdcsa24-f3ee1221dde11f9f,3.26,5.24,2,2,merged_labels.csv (user mapping),444
+gmdcsa24-f45505f409902a59,0.205,1.88264,3,0,merged_labels.csv (user mapping); merged same target class,401
+gmdcsa24-f45505f409902a59,1.883,7.15181,5,0,merged_labels.csv (user mapping); merged same target class,428
+gmdcsa24-f504ee34a1351705,0.0,5.52,5,0,merged_labels.csv (user mapping),102
+gmdcsa24-f504ee34a1351705,5.52,7.62,6,0,merged_labels.csv (user mapping),202
+gmdcsa24-f5d7d39f5eea4bb8,0.0,7.13264,9,0,merged_labels.csv (user mapping); merged same target class; merged same target class,276
+gmdcsa24-f5d7d39f5eea4bb8,7.133,10.028,0,0,merged_labels.csv (user mapping); merged same target class,357
+gmdcsa24-f9695c6e3188a0ac,0.0,1.6,0,0,merged_labels.csv (user mapping),122
+gmdcsa24-f9695c6e3188a0ac,1.6,3.78,1,1,merged_labels.csv (user mapping),155
+gmdcsa24-f9695c6e3188a0ac,3.78,5.6,2,2,merged_labels.csv (user mapping),183
+gmdcsa24-fa9cbf2723588e42,0.0,3.28,0,0,merged_labels.csv (user mapping),104
+gmdcsa24-fa9cbf2723588e42,3.28,8.28,3,0,merged_labels.csv (user mapping),175
+gmdcsa24-fa9cbf2723588e42,8.28,11.04,4,0,merged_labels.csv (user mapping),230
+gmdcsa24-fb7297efc67bba26,0.0,1.52,4,0,merged_labels.csv (user mapping),30
+gmdcsa24-fb7297efc67bba26,1.52,4.5,1,1,merged_labels.csv (user mapping),52
+gmdcsa24-fb7297efc67bba26,4.5,6.08,2,2,merged_labels.csv (user mapping),88
+gmdcsa24-fd0eec304a39e768,0.0,0.78,0,0,merged_labels.csv (user mapping),113
+gmdcsa24-fd0eec304a39e768,0.78,3.28,1,1,merged_labels.csv (user mapping),145
+gmdcsa24-fd0eec304a39e768,3.28,4.52,2,2,merged_labels.csv (user mapping),176
+le2i-000a0382644df03c,4.902,9.36181,0,0,labels/le2i.csv; merged same target class; merged same target class,210
+le2i-000a0382644df03c,9.362,21.11181,9,0,labels/le2i.csv,223
+le2i-000a0382644df03c,21.112,30.25764,0,0,labels/le2i.csv; merged same target class; merged same target class; merged same target class,242
+le2i-000a0382644df03c,30.258,37.61181,0,0,labels/le2i.csv; merged same target class; merged same target class; merged same target class,252
+le2i-000a0382644df03c,37.612,42.46597,0,0,labels/le2i.csv,257
+le2i-000a0382644df03c,42.466,48.61181,9,0,labels/le2i.csv; merged same target class; merged same target class,258
+le2i-000a0382644df03c,48.612,52.09097,0,0,labels/le2i.csv,262
+le2i-006ed9f9f68cf5f5,0.001,0.6959,4,0,labels/le2i.csv,13
+le2i-006ed9f9f68cf5f5,0.696,1.904115,7,0,labels/le2i.csv,18
+le2i-006ed9f9f68cf5f5,1.904115,3.61256,1,1,labels/le2i.csv,24
+le2i-006ed9f9f68cf5f5,3.613,7.273,2,2,labels/le2i.csv,37
+le2i-0116da648a91a0e3,0.0,0.73681,4,0,labels/le2i.csv,151
+le2i-0116da648a91a0e3,0.737,2.23681,7,0,labels/le2i.csv,156
+le2i-0116da648a91a0e3,2.237,6.63264,0,0,labels/le2i.csv; merged same target class,165
+le2i-0116da648a91a0e3,6.633,8.99597,4,0,labels/le2i.csv,189
+le2i-02b2cf0be4bbc2dd,0.001,1.15347,0,0,labels/le2i.csv,626
+le2i-02b2cf0be4bbc2dd,1.19514,2.73681,9,0,labels/le2i.csv,627
+le2i-02b2cf0be4bbc2dd,2.737,10.279115000000001,0,0,labels/le2i.csv,631
+le2i-02b2cf0be4bbc2dd,10.279115000000001,12.633199999999999,1,1,labels/le2i.csv,639
+le2i-02b2cf0be4bbc2dd,12.633199999999999,15.27923,2,2,labels/le2i.csv,643
+le2i-03c805a21a4ec178,0.0,3.11181,0,0,labels/le2i.csv,59
+le2i-03c805a21a4ec178,3.112,5.46597,3,0,labels/le2i.csv; merged same target class,63
+le2i-03c805a21a4ec178,5.466,6.75764,7,0,labels/le2i.csv,67
+le2i-03c805a21a4ec178,6.758,7.9032350000000005,1,1,labels/le2i.csv,69
+le2i-03c805a21a4ec178,7.9032350000000005,11.27764,2,2,labels/le2i.csv,71
+le2i-04bef84d275d60a5,0.0,1.6959,0,0,labels/le2i.csv,3
+le2i-04bef84d275d60a5,1.696,3.404115,1,1,labels/le2i.csv,22
+le2i-04bef84d275d60a5,3.404115,5.584,2,2,labels/le2i.csv,35
+le2i-055bc1bd7e7c1e10,0.0,7.36256,0,0,labels/le2i.csv; merged same target class,11
+le2i-055bc1bd7e7c1e10,7.363,12.5084,0,0,labels/le2i.csv,48
+le2i-055bc1bd7e7c1e10,12.52923,15.92503,1,1,labels/le2i.csv,52
+le2i-055bc1bd7e7c1e10,15.92503,17.7534,2,2,labels/le2i.csv,54
+le2i-0650b00869f17483,3.386,11.38264,0,0,labels/le2i.csv; merged same target class; merged same target class,596
+le2i-0650b00869f17483,11.383,13.13264,1,1,labels/le2i.csv,611
+le2i-0650b00869f17483,13.133,16.58514,2,2,labels/le2i.csv,613
+le2i-0a5e3dad7022c181,0.0,13.00764,0,0,labels/le2i.csv; merged same target class; merged same target class,58
+le2i-0a5e3dad7022c181,13.008,16.11181,3,0,labels/le2i.csv,78
+le2i-0a5e3dad7022c181,16.112,26.98681,4,0,labels/le2i.csv,80
+le2i-0a5e3dad7022c181,26.987,28.84097,7,0,labels/le2i.csv,81
+le2i-0a5e3dad7022c181,28.841,31.59097,0,0,labels/le2i.csv,82
+le2i-0a5e3dad7022c181,31.591,33.48681,8,0,labels/le2i.csv,83
+le2i-0a5e3dad7022c181,33.487,42.61181,0,0,labels/le2i.csv; merged same target class,84
+le2i-0a5e3dad7022c181,42.612,52.84597,4,0,labels/le2i.csv,86
+le2i-0b2dd18c5d1ed35c,0.0,2.34173,4,0,labels/le2i.csv; merged same target class,519
+le2i-0b2dd18c5d1ed35c,2.342,7.34173,0,0,labels/le2i.csv,527
+le2i-0b2dd18c5d1ed35c,7.342,9.92503,1,1,labels/le2i.csv,538
+le2i-0b2dd18c5d1ed35c,9.92503,11.12673,2,2,labels/le2i.csv,544
+le2i-0b75575ae48e356f,0.0,7.299155000000001,0,0,labels/le2i.csv,830
+le2i-0b75575ae48e356f,7.299155000000001,9.278235,1,1,labels/le2i.csv,840
+le2i-0b75575ae48e356f,9.278235,11.98514,2,2,labels/le2i.csv,842
+le2i-0bccff8060644de3,1.528,3.98681,0,0,labels/le2i.csv,496
+le2i-0bccff8060644de3,3.987,7.09097,3,0,labels/le2i.csv,502
+le2i-0bccff8060644de3,7.091,9.73681,4,0,labels/le2i.csv,507
+le2i-0bccff8060644de3,9.737,11.549154999999999,7,0,labels/le2i.csv,510
+le2i-0bccff8060644de3,11.549154999999999,14.070070000000001,1,1,labels/le2i.csv,512
+le2i-0bccff8060644de3,14.070070000000001,16.58764,2,2,labels/le2i.csv,514
+le2i-0c7664578bc8998a,0.0,5.7782350000000005,0,0,labels/le2i.csv,399
+le2i-0c7664578bc8998a,5.7782350000000005,7.174155000000001,1,1,labels/le2i.csv,410
+le2i-0c7664578bc8998a,7.174155000000001,9.84097,7,0,labels/le2i.csv,415
+le2i-0c7664578bc8998a,9.841,12.19514,0,0,labels/le2i.csv,420
+le2i-0c8c401bc9a94fd3,0.487,13.86014,0,0,labels/le2i.csv; merged same target class; merged same target class,381
+le2i-0eb6e8203ae0b705,4.466,6.13264,0,0,labels/le2i.csv,285
+le2i-0eb6e8203ae0b705,6.133,12.84097,9,0,labels/le2i.csv,295
+le2i-0eb6e8203ae0b705,12.841,15.21597,0,0,labels/le2i.csv,318
+le2i-0eb6e8203ae0b705,15.216,16.75764,3,0,labels/le2i.csv,324
+le2i-0eb6e8203ae0b705,16.758,18.11181,9,0,labels/le2i.csv,328
+le2i-0eb6e8203ae0b705,18.112,22.88264,4,0,labels/le2i.csv,334
+le2i-0eb6e8203ae0b705,22.883,24.13264,9,0,labels/le2i.csv,339
+le2i-0eb6e8203ae0b705,24.133,26.153235,7,0,labels/le2i.csv,341
+le2i-0eb6e8203ae0b705,26.153235,28.049155,1,1,labels/le2i.csv,345
+le2i-0eb6e8203ae0b705,28.049155,31.67181,2,2,labels/le2i.csv,350
+le2i-0fcb9060260a6118,0.0,1.42503,0,0,labels/le2i.csv,4
+le2i-0fcb9060260a6118,1.42503,3.17503,1,1,labels/le2i.csv,20
+le2i-0fcb9060260a6118,3.17503,7.075,2,2,labels/le2i.csv,32
+le2i-0fe0af5eddde5ac1,0.0,3.34097,4,0,labels/le2i.csv; merged same target class,722
+le2i-0fe0af5eddde5ac1,3.341,8.63264,0,0,labels/le2i.csv,735
+le2i-0fe0af5eddde5ac1,8.633,11.38264,8,0,labels/le2i.csv; merged same target class,742
+le2i-0fe0af5eddde5ac1,11.383,12.0,4,0,labels/le2i.csv,749
+le2i-119ae959556f6d3b,0.0,8.65347,8,0,labels/le2i.csv; merged same target class,201
+le2i-11cf1cd3d6082456,4.153,8.695070000000001,0,0,labels/le2i.csv,207
+le2i-11cf1cd3d6082456,8.695070000000001,11.945070000000001,1,1,labels/le2i.csv,221
+le2i-11cf1cd3d6082456,11.945070000000001,14.50264,2,2,labels/le2i.csv,228
+le2i-120607f96467949c,5.591,13.46288,0,0,labels/le2i.csv; merged same target class,291
+le2i-120607f96467949c,13.463,16.71288,3,0,labels/le2i.csv,320
+le2i-120607f96467949c,16.713,33.62197,4,0,labels/le2i.csv; merged same target class,327
+le2i-120607f96467949c,33.622,40.1447,4,0,labels/le2i.csv; merged same target class,357
+le2i-120607f96467949c,40.145,46.53106,0,0,labels/le2i.csv,363
+le2i-125273180757a099,0.0,3.09097,8,0,labels/le2i.csv; merged same target class,148
+le2i-125273180757a099,3.091,4.96597,3,0,labels/le2i.csv,169
+le2i-125273180757a099,4.966,6.98431,4,0,labels/le2i.csv,180
+le2i-14d5d67f761ccb6d,0.0,3.6959,4,0,labels/le2i.csv,517
+le2i-14d5d67f761ccb6d,3.696,7.529115,7,0,labels/le2i.csv; merged same target class,529
+le2i-14d5d67f761ccb6d,7.529115,11.404115000000001,1,1,labels/le2i.csv,539
+le2i-14d5d67f761ccb6d,11.404115000000001,12.444,2,2,labels/le2i.csv,545
+le2i-18917873ce03c320,0.0,9.154115000000001,4,0,labels/le2i.csv; merged same target class; merged same target class,622
+le2i-18917873ce03c320,9.154115000000001,11.008199999999999,1,1,labels/le2i.csv,637
+le2i-18917873ce03c320,11.008199999999999,14.08006,2,2,labels/le2i.csv,640
+le2i-18b8c8bf744710c5,0.0,1.8209,0,0,labels/le2i.csv,621
+le2i-18b8c8bf744710c5,1.821,4.17503,1,1,labels/le2i.csv,630
+le2i-18b8c8bf744710c5,4.17503,8.23173,2,2,labels/le2i.csv,634
+le2i-18f07fea35ec79a7,3.863,8.71597,0,0,labels/le2i.csv,783
+le2i-18f07fea35ec79a7,8.716,15.36181,9,0,labels/le2i.csv,786
+le2i-18f07fea35ec79a7,15.362,18.59097,0,0,labels/le2i.csv,789
+le2i-19db89b78b64de37,0.0,0.61256,4,0,labels/le2i.csv,516
+le2i-19db89b78b64de37,0.613,2.8209,7,0,labels/le2i.csv,523
+le2i-19db89b78b64de37,2.821,5.1959,0,0,labels/le2i.csv,528
+le2i-19db89b78b64de37,5.196,7.92503,1,1,labels/le2i.csv,534
+le2i-19db89b78b64de37,7.92503,10.46173,2,2,labels/le2i.csv,541
+le2i-1a5cf7f0ae94abe5,0.0,28.44264,9,0,labels/le2i.csv,769
+le2i-1af42f7d95fce5b2,1.341,7.46597,0,0,labels/le2i.csv; merged same target class,273
+le2i-1af42f7d95fce5b2,7.466,9.13264,0,0,labels/le2i.csv,301
+le2i-1af42f7d95fce5b2,9.133,13.48681,9,0,labels/le2i.csv; merged same target class,308
+le2i-1af42f7d95fce5b2,13.487,29.63264,4,0,labels/le2i.csv; merged same target class; merged same target class,322
+le2i-1af42f7d95fce5b2,29.633,31.75764,0,0,labels/le2i.csv,352
+le2i-1d1aa56f627055af,0.001,2.11256,4,0,labels/le2i.csv; merged same target class,14
+le2i-1d1aa56f627055af,2.113,3.279115,0,0,labels/le2i.csv,26
+le2i-1d1aa56f627055af,3.279115,5.1959,1,1,labels/le2i.csv,33
+le2i-1d1aa56f627055af,5.196,9.756,2,2,labels/le2i.csv,41
+le2i-1eaee902fcbd1462,0.0,4.674155000000001,0,0,labels/le2i.csv,398
+le2i-1eaee902fcbd1462,4.674155000000001,6.23681,1,1,labels/le2i.csv,407
+le2i-1eaee902fcbd1462,6.237,8.96597,7,0,labels/le2i.csv,412
+le2i-1eaee902fcbd1462,8.966,11.57014,0,0,labels/le2i.csv,419
+le2i-2231edf7c5371458,0.0,4.25764,4,0,labels/le2i.csv; merged same target class,396
+le2i-2231edf7c5371458,4.258,5.049155000000001,9,0,labels/le2i.csv,405
+le2i-2231edf7c5371458,5.049155000000001,6.48681,1,1,labels/le2i.csv,408
+le2i-2231edf7c5371458,6.487,8.98097,2,2,labels/le2i.csv,414
+le2i-2256cfa8eda0d6d4,0.0,3.34097,4,0,labels/le2i.csv; merged same target class,721
+le2i-2256cfa8eda0d6d4,3.341,9.71597,0,0,labels/le2i.csv; merged same target class,734
+le2i-2256cfa8eda0d6d4,9.716,10.98681,4,0,labels/le2i.csv,746
+le2i-27ad2f11102d2ecf,3.353,10.48681,0,0,labels/le2i.csv; merged same target class,873
+le2i-27ad2f11102d2ecf,10.487,12.98681,0,0,labels/le2i.csv,890
+le2i-27ad2f11102d2ecf,12.987,15.23681,9,0,labels/le2i.csv,900
+le2i-27ad2f11102d2ecf,15.237,21.23681,0,0,labels/le2i.csv; merged same target class; merged same target class,904
+le2i-2c7df6bb2c6a2af3,0.0,3.34097,4,0,labels/le2i.csv; merged same target class,265
+le2i-2c7df6bb2c6a2af3,3.341,8.528235,0,0,labels/le2i.csv; merged same target class; merged same target class; merged same target class,281
+le2i-2c7df6bb2c6a2af3,8.528235,10.403235,1,1,labels/le2i.csv,305
+le2i-2c7df6bb2c6a2af3,10.403235,12.71014,2,2,labels/le2i.csv,311
+le2i-2ddd5815a4c0c0e2,0.0,2.23681,8,0,labels/le2i.csv,831
+le2i-2ddd5815a4c0c0e2,2.237,6.5282350000000005,0,0,labels/le2i.csv,833
+le2i-2ddd5815a4c0c0e2,6.5282350000000005,8.00764,1,1,labels/le2i.csv,837
+le2i-2ddd5815a4c0c0e2,8.008,9.90181,2,2,labels/le2i.csv,841
+le2i-31de6b9413a688df,0.0,2.96673,7,0,labels/le2i.csv,7
+le2i-31de6b9413a688df,2.967,4.7582,1,1,labels/le2i.csv,28
+le2i-31de6b9413a688df,4.7582,7.29256,2,2,labels/le2i.csv,40
+le2i-32a0b6d2a86d1d56,0.0,2.75764,4,0,labels/le2i.csv,397
+le2i-32a0b6d2a86d1d56,2.758,4.50764,7,0,labels/le2i.csv,403
+le2i-32a0b6d2a86d1d56,4.508,6.13264,9,0,labels/le2i.csv,406
+le2i-32a0b6d2a86d1d56,6.133,8.61181,1,1,labels/le2i.csv,411
+le2i-32a0b6d2a86d1d56,8.612,9.98264,2,2,labels/le2i.csv,418
+le2i-32b8dc4a0bb53c64,0.0,1.73681,0,0,labels/le2i.csv,268
+le2i-32b8dc4a0bb53c64,1.737,30.98681,9,0,labels/le2i.csv; merged same target class; merged same target class,275
+le2i-32b8dc4a0bb53c64,30.987,36.98681,9,0,labels/le2i.csv,355
+le2i-32b8dc4a0bb53c64,36.987,42.11181,8,0,labels/le2i.csv,360
+le2i-32b8dc4a0bb53c64,42.112,46.19514,0,0,labels/le2i.csv,365
+le2i-3374aaf5b7da398d,0.0,6.34097,4,0,labels/le2i.csv,846
+le2i-3374aaf5b7da398d,6.341,7.98681,7,0,labels/le2i.csv,859
+le2i-3374aaf5b7da398d,7.987,14.0,0,0,labels/le2i.csv; merged same target class; merged same target class,862
+le2i-3465b73334e91984,0.0,3.38264,4,0,labels/le2i.csv; merged same target class,147
+le2i-3465b73334e91984,3.383,6.71597,0,0,labels/le2i.csv,173
+le2i-3465b73334e91984,6.716,7.96597,3,0,labels/le2i.csv,190
+le2i-3465b73334e91984,7.966,9.98597,4,0,labels/le2i.csv,195
+le2i-34d26dce06f9f9b8,0.0,3.71597,4,0,labels/le2i.csv,93
+le2i-34d26dce06f9f9b8,3.716,6.34097,7,0,labels/le2i.csv; merged same target class,112
+le2i-34d26dce06f9f9b8,6.341,8.13264,1,1,labels/le2i.csv,132
+le2i-34d26dce06f9f9b8,8.133,9.98681,2,2,labels/le2i.csv,140
+le2i-3618b141fdf71e6b,0.363,1.61256,0,0,labels/le2i.csv,368
+le2i-3618b141fdf71e6b,1.55006,3.5709,1,1,labels/le2i.csv,369
+le2i-3618b141fdf71e6b,3.571,6.2584,2,2,labels/le2i.csv,370
+le2i-3637d85dd1ca604a,0.862,3.11181,0,0,labels/le2i.csv,270
+le2i-3637d85dd1ca604a,3.112,6.174155000000001,1,1,labels/le2i.csv,278
+le2i-3637d85dd1ca604a,6.174155000000001,8.67347,2,2,labels/le2i.csv,296
+le2i-36ed80b77280678a,2.236,6.25764,0,0,labels/le2i.csv,453
+le2i-36ed80b77280678a,6.258,8.00764,8,0,labels/le2i.csv,457
+le2i-36ed80b77280678a,8.008,10.25764,0,0,labels/le2i.csv; merged same target class,463
+le2i-36ed80b77280678a,10.258,18.25764,3,0,labels/le2i.csv; merged same target class,470
+le2i-36ed80b77280678a,18.258,19.96597,9,0,labels/le2i.csv,479
+le2i-36ed80b77280678a,19.966,21.13264,7,0,labels/le2i.csv,480
+le2i-36ed80b77280678a,21.133,23.59097,0,0,labels/le2i.csv,481
+le2i-36ed80b77280678a,23.591,24.46597,9,0,labels/le2i.csv,484
+le2i-36ed80b77280678a,24.466,30.54931,0,0,labels/le2i.csv,485
+le2i-37279cdcf968733b,0.0,6.61181,0,0,labels/le2i.csv,582
+le2i-37279cdcf968733b,6.612,8.778235,1,1,labels/le2i.csv,583
+le2i-37279cdcf968733b,8.778235,12.42014,2,2,labels/le2i.csv,584
+le2i-37430e175de569b1,0.0,5.84097,4,0,labels/le2i.csv,266
+le2i-37430e175de569b1,5.841,9.049154999999999,7,0,labels/le2i.csv,293
+le2i-37430e175de569b1,9.049154999999999,11.778235,1,1,labels/le2i.csv,306
+le2i-37430e175de569b1,11.778235,17.10931,2,2,labels/le2i.csv,314
+le2i-38391c4a27d29e3a,0.0,4.75764,4,0,labels/le2i.csv; merged same target class,687
+le2i-38391c4a27d29e3a,4.758,6.549155000000001,0,0,labels/le2i.csv,702
+le2i-38391c4a27d29e3a,6.549155000000001,8.98514,1,1,labels/le2i.csv,714
+le2i-3afd6b5b9512988c,0.0,4.84097,0,0,labels/le2i.csv; merged same target class,200
+le2i-3afd6b5b9512988c,4.841,12.42431,8,0,labels/le2i.csv; merged same target class; merged same target class,209
+le2i-3bbb04aa9a995ead,0.0,6.00764,0,0,labels/le2i.csv; merged same target class,919
+le2i-3bbb04aa9a995ead,6.008,7.424155000000001,4,0,labels/le2i.csv; merged same target class,936
+le2i-3bbb04aa9a995ead,7.424155000000001,8.71597,1,1,labels/le2i.csv,940
+le2i-3bbb04aa9a995ead,8.716,11.91931,2,2,labels/le2i.csv,944
+le2i-3d421ce483405422,0.0,2.63264,4,0,labels/le2i.csv,96
+le2i-3d421ce483405422,2.633,4.21597,7,0,labels/le2i.csv,107
+le2i-3d421ce483405422,4.216,6.2782350000000005,1,1,labels/le2i.csv,118
+le2i-3d421ce483405422,6.2782350000000005,7.98097,2,2,labels/le2i.csv,131
+le2i-3d4a4dda17e8f5b8,4.362,9.73681,0,0,labels/le2i.csv,878
+le2i-3d4a4dda17e8f5b8,9.737,10.570070000000001,9,0,labels/le2i.csv,888
+le2i-3d4a4dda17e8f5b8,10.570070000000001,12.820070000000001,1,1,labels/le2i.csv,892
+le2i-3d4a4dda17e8f5b8,12.820070000000001,16.06764,2,2,labels/le2i.csv,899
+le2i-3e5102f0baabb5fc,0.396,2.436,0,0,labels/le2i.csv,380
+le2i-3e5102f0baabb5fc,2.436,5.07007,1,1,labels/le2i.csv,385
+le2i-3e5102f0baabb5fc,5.07007,8.10681,2,2,labels/le2i.csv,389
+le2i-41aa874ba387e577,0.0,5.32007,0,0,labels/le2i.csv,794
+le2i-41aa874ba387e577,5.32007,7.09097,1,1,labels/le2i.csv,802
+le2i-41aa874ba387e577,7.091,9.54597,2,2,labels/le2i.csv,807
+le2i-41da8cc828d7c285,0.0,5.11181,0,0,labels/le2i.csv,682
+le2i-41da8cc828d7c285,5.112,6.38264,1,1,labels/le2i.csv,705
+le2i-41da8cc828d7c285,6.383,12.98264,7,0,labels/le2i.csv; merged same target class,711
+le2i-429129fccc4f6623,0.0,1.779115,0,0,labels/le2i.csv,2
+le2i-429129fccc4f6623,1.779115,3.404115,1,1,labels/le2i.csv,23
+le2i-429129fccc4f6623,3.404115,7.024,2,2,labels/le2i.csv,34
+le2i-42f95426f1da7616,0.0,3.904115,7,0,labels/le2i.csv; merged same target class,658
+le2i-42f95426f1da7616,3.904115,5.61256,1,1,labels/le2i.csv,669
+le2i-42f95426f1da7616,5.613,6.376,2,2,labels/le2i.csv,673
+le2i-438e7f2e8d9e2e12,2.44,8.63264,0,0,labels/le2i.csv,203
+le2i-438e7f2e8d9e2e12,8.633,10.21597,8,0,labels/le2i.csv,220
+le2i-438e7f2e8d9e2e12,10.216,14.549154999999999,0,0,labels/le2i.csv,224
+le2i-438e7f2e8d9e2e12,14.549154999999999,16.46597,1,1,labels/le2i.csv,233
+le2i-438e7f2e8d9e2e12,16.466,20.23181,2,2,labels/le2i.csv,237
+le2i-4544a0964c098122,0.0,1.86181,7,0,labels/le2i.csv,753
+le2i-4544a0964c098122,1.862,14.21597,0,0,labels/le2i.csv; merged same target class; merged same target class; merged same target class,755
+le2i-4544a0964c098122,14.216,24.98681,7,0,labels/le2i.csv; merged same target class; merged same target class,760
+le2i-4544a0964c098122,24.987,25.778235,0,0,labels/le2i.csv,765
+le2i-4544a0964c098122,25.778235,28.11181,1,1,labels/le2i.csv,766
+le2i-4544a0964c098122,28.112,31.152,2,2,labels/le2i.csv,768
+le2i-45cdc1592fbbcf50,0.0,4.82007,4,0,labels/le2i.csv; merged same target class,89
+le2i-45cdc1592fbbcf50,4.82007,7.98514,1,1,labels/le2i.csv,121
+le2i-45ddde5df3d19076,0.0,4.11181,4,0,labels/le2i.csv; merged same target class,97
+le2i-45ddde5df3d19076,4.112,6.0282350000000005,1,1,labels/le2i.csv,116
+le2i-45ddde5df3d19076,6.0282350000000005,7.98514,2,2,labels/le2i.csv,129
+le2i-4a19a0a28f5804c1,0.966,2.174155,0,0,labels/le2i.csv,493
+le2i-4a19a0a28f5804c1,2.174155,4.57007,1,1,labels/le2i.csv,497
+le2i-4a19a0a28f5804c1,4.57007,8.23264,2,2,labels/le2i.csv,504
+le2i-4ab9dbb2651df5e3,0.0,6.09173,0,0,labels/le2i.csv,553
+le2i-4ab9dbb2651df5e3,6.092,10.61256,9,0,labels/le2i.csv,571
+le2i-4ab9dbb2651df5e3,10.613,11.40423,0,0,labels/le2i.csv,577
+le2i-4ab9dbb2651df5e3,11.40423,13.12,1,1,labels/le2i.csv,579
+le2i-4ae661ec6d24acdb,1.527,3.25764,0,0,labels/le2i.csv,870
+le2i-4ae661ec6d24acdb,3.258,6.23681,9,0,labels/le2i.csv,872
+le2i-4ae661ec6d24acdb,6.237,10.34097,0,0,labels/le2i.csv,882
+le2i-4ae661ec6d24acdb,10.341,15.00764,9,0,labels/le2i.csv,889
+le2i-4ae661ec6d24acdb,15.008,23.00764,0,0,labels/le2i.csv,902
+le2i-4ae661ec6d24acdb,23.008,25.46597,9,0,labels/le2i.csv,912
+le2i-4ae661ec6d24acdb,25.466,31.19514,0,0,labels/le2i.csv,914
+le2i-4b09294ea5ae4b53,2.48,8.38264,0,0,labels/le2i.csv; merged same target class,204
+le2i-4b09294ea5ae4b53,8.383,23.34097,0,0,labels/le2i.csv; merged same target class; merged same target class; merged same target class; merged same target class,218
+le2i-4b09294ea5ae4b53,23.341,27.46597,9,0,labels/le2i.csv,246
+le2i-4b09294ea5ae4b53,27.466,38.79931,0,0,labels/le2i.csv; merged same target class; merged same target class,249
+le2i-4b09294ea5ae4b53,46.737,51.09097,0,0,labels/le2i.csv,260
+le2i-4b09294ea5ae4b53,51.091,56.48681,9,0,labels/le2i.csv,263
+le2i-4b09294ea5ae4b53,56.487,57.16,0,0,labels/le2i.csv,264
+le2i-4b0bc3c6af545f2b,1.514,6.32007,0,0,labels/le2i.csv,450
+le2i-4b0bc3c6af545f2b,6.32007,8.23681,1,1,labels/le2i.csv,458
+le2i-4b0bc3c6af545f2b,8.237,11.38097,2,2,labels/le2i.csv,464
+le2i-4ebd9b235c5bbc1b,1.091,3.23681,0,0,labels/le2i.csv,494
+le2i-4ebd9b235c5bbc1b,3.237,9.63264,9,0,labels/le2i.csv,500
+le2i-4ebd9b235c5bbc1b,9.633,12.44514,0,0,labels/le2i.csv,509
+le2i-52c07ef9508de248,0.0,3.883,8,0,labels/le2i.csv; merged same target class,9
+le2i-52c07ef9508de248,3.883,5.73681,9,0,labels/le2i.csv,38
+le2i-52c07ef9508de248,5.737,14.717,0,0,labels/le2i.csv,46
+le2i-52c07ef9508de248,14.717,16.633200000000002,1,1,labels/le2i.csv,53
+le2i-52c07ef9508de248,16.633200000000002,19.333,2,2,labels/le2i.csv,55
+le2i-540dee74eb5faf1c,0.0,5.84097,4,0,labels/le2i.csv; merged same target class,88
+le2i-540dee74eb5faf1c,5.841,7.299155000000001,1,1,labels/le2i.csv,128
+le2i-540dee74eb5faf1c,7.299155000000001,9.98181,2,2,labels/le2i.csv,136
+le2i-5443e9ced1ac897e,0.001,26.341,0,0,labels/le2i.csv; merged same target class; merged same target class,625
+le2i-5443e9ced1ac897e,26.341,28.63264,9,0,labels/le2i.csv,644
+le2i-5443e9ced1ac897e,28.633,43.17503,0,0,labels/le2i.csv,645
+le2i-5443e9ced1ac897e,43.17503,45.55003,1,1,labels/le2i.csv,646
+le2i-5443e9ced1ac897e,45.55003,48.10506,2,2,labels/le2i.csv,647
+le2i-54c547e454c8e16a,0.0,9.13264,4,0,labels/le2i.csv; merged same target class,546
+le2i-54c547e454c8e16a,9.133,11.611,0,0,labels/le2i.csv,548
+le2i-54c547e454c8e16a,11.611,17.21597,9,0,labels/le2i.csv; merged same target class,549
+le2i-54c547e454c8e16a,17.216,20.09097,1,1,labels/le2i.csv,551
+le2i-54c547e454c8e16a,20.091,22.50431,2,2,labels/le2i.csv,552
+le2i-551e4330360af99b,0.001,1.34173,4,0,labels/le2i.csv,662
+le2i-551e4330360af99b,1.342,9.98756,7,0,labels/le2i.csv; merged same target class; merged same target class; merged same target class,663
+le2i-551e4330360af99b,9.988,17.36256,0,0,labels/le2i.csv,677
+le2i-551e4330360af99b,17.363,20.3209,8,0,labels/le2i.csv,678
+le2i-551e4330360af99b,20.321,24.4459,0,0,labels/le2i.csv,679
+le2i-551e4330360af99b,24.4459,26.55003,1,1,labels/le2i.csv,680
+le2i-551e4330360af99b,26.55003,28.70923,2,2,labels/le2i.csv,681
+le2i-575b3b40243de891,0.008,0.758,4,0,labels/le2i.csv,559
+le2i-575b3b40243de891,0.758,6.61181,9,0,labels/le2i.csv,561
+le2i-575b3b40243de891,6.612,9.61256,4,0,labels/le2i.csv,572
+le2i-575b3b40243de891,9.613,12.92503,7,0,labels/le2i.csv; merged same target class,576
+le2i-575b3b40243de891,12.92503,15.05003,1,1,labels/le2i.csv,580
+le2i-575b3b40243de891,15.05003,16.6459,2,2,labels/le2i.csv,581
+le2i-59c18ab3655cc4f5,0.0,3.21597,7,0,labels/le2i.csv; merged same target class,770
+le2i-59c18ab3655cc4f5,3.216,8.48681,0,0,labels/le2i.csv,772
+le2i-59c18ab3655cc4f5,12.466,16.96597,0,0,labels/le2i.csv,773
+le2i-59c18ab3655cc4f5,16.966,21.86181,9,0,labels/le2i.csv; merged same target class,774
+le2i-59c18ab3655cc4f5,21.862,25.75764,9,0,labels/le2i.csv; merged same target class,776
+le2i-59c18ab3655cc4f5,25.758,28.46597,0,0,labels/le2i.csv,778
+le2i-59c18ab3655cc4f5,28.466,30.84097,8,0,labels/le2i.csv; merged same target class,779
+le2i-59c18ab3655cc4f5,30.841,33.54181,4,0,labels/le2i.csv,781
+le2i-59e8e8b81324134e,0.0,3.34097,0,0,Exact-duplicate annotation consensus; originals preserved,-1
+le2i-59e8e8b81324134e,3.341,5.21597,0,0,Exact-duplicate annotation consensus; originals preserved,-1
+le2i-59e8e8b81324134e,5.216,5.63264,0,0,Exact-duplicate annotation consensus; originals preserved,-1
+le2i-59e8e8b81324134e,5.633,10.09097,0,0,Exact-duplicate annotation consensus; originals preserved,-1
+le2i-59e8e8b81324134e,10.091,12.59097,0,0,Exact-duplicate annotation consensus; originals preserved,-1
+le2i-59e8e8b81324134e,12.591,13.0,0,0,Exact-duplicate annotation consensus; originals preserved,-1
+le2i-5a1c3a351d6f024a,0.0,1.25764,4,0,labels/le2i.csv,723
+le2i-5a1c3a351d6f024a,1.258,7.21597,7,0,labels/le2i.csv; merged same target class,730
+le2i-5a1c3a351d6f024a,7.216,10.0,3,0,labels/le2i.csv; merged same target class,741
+le2i-5ac3d4eb0d3b5f2f,2.903,9.25764,0,0,labels/le2i.csv,205
+le2i-5ac3d4eb0d3b5f2f,9.258,18.00764,9,0,labels/le2i.csv; merged same target class,222
+le2i-5ac3d4eb0d3b5f2f,18.008,20.19507,1,1,labels/le2i.csv,238
+le2i-5ac3d4eb0d3b5f2f,20.19507,24.90347,2,2,labels/le2i.csv,240
+le2i-5af1d6b7b63d9ea4,0.0,6.98514,8,0,labels/le2i.csv; merged same target class; merged same target class; merged same target class,149
+le2i-5ba418023f09ec83,0.0,5.9032350000000005,4,0,labels/le2i.csv; merged same target class; merged same target class,421
+le2i-5ba418023f09ec83,5.9032350000000005,7.88264,1,1,labels/le2i.csv,442
+le2i-5ba418023f09ec83,7.883,9.98097,2,2,labels/le2i.csv,447
+le2i-5eb0a78ceb48b7b0,0.195,2.38264,0,0,labels/le2i.csv,920
+le2i-5eb0a78ceb48b7b0,2.383,7.13264,8,0,labels/le2i.csv; merged same target class,926
+le2i-5ff27a51b87e8ba5,2.675,4.674155000000001,0,0,labels/le2i.csv,166
+le2i-5ff27a51b87e8ba5,4.674155000000001,6.48681,1,1,labels/le2i.csv,178
+le2i-5ff27a51b87e8ba5,6.487,7.98514,2,2,labels/le2i.csv,188
+le2i-60949720fc6bbec3,0.0,2.34097,4,0,labels/le2i.csv,94
+le2i-60949720fc6bbec3,2.341,4.21597,7,0,labels/le2i.csv,104
+le2i-60949720fc6bbec3,4.216,6.2782350000000005,9,0,labels/le2i.csv,117
+le2i-60949720fc6bbec3,6.2782350000000005,9.34097,1,1,labels/le2i.csv,130
+le2i-60949720fc6bbec3,9.341,10.46597,2,2,labels/le2i.csv,142
+le2i-60949720fc6bbec3,10.466,11.292,7,0,labels/le2i.csv,143
+le2i-60abf8f7df4369c7,0.966,3.25764,0,0,labels/le2i.csv,271
+le2i-60abf8f7df4369c7,3.258,13.21597,9,0,labels/le2i.csv; merged same target class,279
+le2i-60abf8f7df4369c7,13.216,17.75764,9,0,labels/le2i.csv,319
+le2i-60abf8f7df4369c7,17.758,19.77847,0,0,labels/le2i.csv,332
+le2i-6180aca87ca9c2d5,0.0,2.63264,0,0,Exact-duplicate annotation consensus; originals preserved,-1
+le2i-6180aca87ca9c2d5,2.633,3.86181,0,0,Exact-duplicate annotation consensus; originals preserved,-1
+le2i-6180aca87ca9c2d5,3.862,4.23681,0,0,Exact-duplicate annotation consensus; originals preserved,-1
+le2i-6180aca87ca9c2d5,4.237,5.48681,0,0,Exact-duplicate annotation consensus; originals preserved,-1
+le2i-6180aca87ca9c2d5,5.758,7.11181,1,1,Exact-duplicate annotation consensus; originals preserved,-1
+le2i-6180aca87ca9c2d5,7.32007,8.98347,2,2,Exact-duplicate annotation consensus; originals preserved,-1
+le2i-635ea6af44a632f6,0.0,2.11181,9,0,labels/le2i.csv,918
+le2i-635ea6af44a632f6,2.112,6.07007,0,0,labels/le2i.csv,925
+le2i-635ea6af44a632f6,6.07007,7.84097,1,1,labels/le2i.csv,937
+le2i-635ea6af44a632f6,7.841,10.75514,2,2,labels/le2i.csv,941
+le2i-68f023d532d8df0b,1.112,5.61181,0,0,labels/le2i.csv; merged same target class; merged same target class,272
+le2i-68f023d532d8df0b,5.612,19.67431,9,0,labels/le2i.csv; merged same target class,292
+le2i-6922a6f2eacd7e45,0.0,5.73681,4,0,labels/le2i.csv; merged same target class; merged same target class,92
+le2i-6922a6f2eacd7e45,5.737,7.799155000000001,1,1,labels/le2i.csv,126
+le2i-6922a6f2eacd7e45,7.799155000000001,9.98681,2,2,labels/le2i.csv,139
+le2i-6923cb0b56ba0232,0.0,0.71597,4,0,labels/le2i.csv,726
+le2i-6923cb0b56ba0232,0.716,7.11181,7,0,labels/le2i.csv; merged same target class,727
+le2i-6923cb0b56ba0232,7.112,10.98097,9,0,labels/le2i.csv; merged same target class,740
+le2i-6b26a5006e2b4bba,0.0,2.63264,8,0,labels/le2i.csv,661
+le2i-6b26a5006e2b4bba,2.633,6.13264,0,0,labels/le2i.csv,666
+le2i-6b26a5006e2b4bba,6.133,8.50764,1,1,labels/le2i.csv,674
+le2i-6b26a5006e2b4bba,8.508,11.81764,2,2,labels/le2i.csv,675
+le2i-6c1eee8a00acf694,0.0,1.61181,4,0,labels/le2i.csv; merged same target class,426
+le2i-6c1eee8a00acf694,1.612,7.21597,0,0,labels/le2i.csv; merged same target class,431
+le2i-6c1eee8a00acf694,7.216,8.98264,4,0,labels/le2i.csv,446
+le2i-6cb123f9612048c8,0.0,1.59173,7,0,labels/le2i.csv,624
+le2i-6cb123f9612048c8,1.592,9.92503,0,0,labels/le2i.csv,629
+le2i-6cb123f9612048c8,9.92503,12.48756,1,1,labels/le2i.csv,638
+le2i-6cb123f9612048c8,12.488,14.00006,2,2,labels/le2i.csv,642
+le2i-6d04ff5090712f4b,0.0,6.19507,0,0,labels/le2i.csv,683
+le2i-6d04ff5090712f4b,6.19507,8.36181,1,1,labels/le2i.csv,708
+le2i-6d04ff5090712f4b,8.362,9.98597,2,2,labels/le2i.csv,717
+le2i-6d10638b922d7d92,1.883,7.84097,0,0,labels/le2i.csv; merged same target class,871
+le2i-6d10638b922d7d92,7.841,12.50764,0,0,labels/le2i.csv; merged same target class,884
+le2i-6d10638b922d7d92,12.508,28.67431,0,0,labels/le2i.csv; merged same target class; merged same target class; merged same target class; merged same target class,897
+le2i-6d10638b922d7d92,31.403,40.46597,0,0,labels/le2i.csv,915
+le2i-6fc1da4af41f8243,3.644,11.61181,0,0,labels/le2i.csv; merged same target class,876
+le2i-6fc1da4af41f8243,11.612,17.00764,0,0,labels/le2i.csv; merged same target class,895
+le2i-6fc1da4af41f8243,17.008,25.21597,0,0,labels/le2i.csv; merged same target class,907
+le2i-6fc1da4af41f8243,25.216,33.96597,0,0,labels/le2i.csv; merged same target class,913
+le2i-6fc1da4af41f8243,33.966,37.98681,0,0,labels/le2i.csv,917
+le2i-7925c06d0a19a03c,0.0,4.88264,0,0,labels/le2i.csv,793
+le2i-7925c06d0a19a03c,4.883,6.924155000000001,1,1,labels/le2i.csv,800
+le2i-7925c06d0a19a03c,6.924155000000001,7.541,2,2,labels/le2i.csv,806
+le2i-7c33b3a8a7303b2e,3.612,7.84097,0,0,labels/le2i.csv; merged same target class,875
+le2i-7c33b3a8a7303b2e,7.841,22.21597,0,0,labels/le2i.csv; merged same target class; merged same target class,883
+le2i-7e83cc7e3bc16e52,0.0,1.25764,0,0,Exact-duplicate annotation consensus; originals preserved,-1
+le2i-7e83cc7e3bc16e52,1.258,3.50764,0,0,Exact-duplicate annotation consensus; originals preserved,-1
+le2i-7e83cc7e3bc16e52,3.508,3.71597,0,0,Exact-duplicate annotation consensus; originals preserved,-1
+le2i-7e83cc7e3bc16e52,3.716,4.63264,0,0,Exact-duplicate annotation consensus; originals preserved,-1
+le2i-7e83cc7e3bc16e52,4.841,6.2782350000000005,1,1,Exact-duplicate annotation consensus; originals preserved,-1
+le2i-7e83cc7e3bc16e52,6.299155000000001,9.36181,2,2,Exact-duplicate annotation consensus; originals preserved,-1
+le2i-7e83cc7e3bc16e52,9.508,10.0,0,0,Exact-duplicate annotation consensus; originals preserved,-1
+le2i-7f73330f86c32cf4,0.0,3.38264,4,0,labels/le2i.csv; merged same target class,845
+le2i-7f73330f86c32cf4,3.383,6.63264,0,0,labels/le2i.csv,854
+le2i-7f73330f86c32cf4,6.633,8.48681,3,0,labels/le2i.csv,860
+le2i-7f73330f86c32cf4,8.487,9.98097,4,0,labels/le2i.csv,864
+le2i-81139a6342c89922,0.0,2.48756,0,0,labels/le2i.csv,557
+le2i-81139a6342c89922,2.488,4.98756,1,1,labels/le2i.csv,562
+le2i-81139a6342c89922,4.988,9.23173,2,2,labels/le2i.csv,568
+le2i-849d8a719627ae55,0.001,1.61256,4,0,labels/le2i.csv,15
+le2i-849d8a719627ae55,1.613,4.11256,7,0,labels/le2i.csv,21
+le2i-849d8a719627ae55,4.113,6.61256,1,1,labels/le2i.csv,39
+le2i-849d8a719627ae55,6.613,9.15006,2,2,labels/le2i.csv,47
+le2i-854e6de144c4bee3,3.153,7.46597,0,0,labels/le2i.csv; merged same target class,499
+le2i-854e6de144c4bee3,7.466,11.38264,0,0,labels/le2i.csv,508
+le2i-854e6de144c4bee3,11.383,13.38264,1,1,labels/le2i.csv,511
+le2i-854e6de144c4bee3,13.383,16.75097,2,2,labels/le2i.csv,513
+le2i-88a096dd6b6fa565,0.0,1.42506,0,0,labels/le2i.csv,659
+le2i-88a096dd6b6fa565,1.42506,4.55003,1,1,labels/le2i.csv,664
+le2i-88a096dd6b6fa565,4.55003,5.332,2,2,labels/le2i.csv,671
+le2i-89c05c589bea83f9,0.0,2.154115,4,0,labels/le2i.csv; merged same target class,520
+le2i-89c05c589bea83f9,2.154115,4.11256,1,1,labels/le2i.csv,526
+le2i-89c05c589bea83f9,4.113,6.98423,2,2,labels/le2i.csv,532
+le2i-8b694cb03d4f00d1,0.0,7.50764,4,0,labels/le2i.csv; merged same target class; merged same target class; merged same target class,150
+le2i-8b694cb03d4f00d1,7.508,8.98431,4,0,labels/le2i.csv,193
+le2i-8c98a3e5e9499425,0.0,1.59097,4,0,labels/le2i.csv,689
+le2i-8c98a3e5e9499425,1.591,4.00764,7,0,labels/le2i.csv,694
+le2i-8c98a3e5e9499425,4.008,5.88264,0,0,labels/le2i.csv,699
+le2i-8c98a3e5e9499425,5.883,7.6532350000000005,1,1,labels/le2i.csv,707
+le2i-8c98a3e5e9499425,7.6532350000000005,9.98347,2,2,labels/le2i.csv,715
+le2i-8cc65a77d51755de,0.0,6.07007,0,0,labels/le2i.csv; merged same target class; merged same target class,795
+le2i-8cc65a77d51755de,6.07007,7.78264,1,1,labels/le2i.csv,804
+le2i-8cc65a77d51755de,7.783,10.323,2,2,labels/le2i.csv,808
+le2i-8d5c9d77c4309b9a,0.0,0.84097,4,0,labels/le2i.csv,425
+le2i-8d5c9d77c4309b9a,0.841,3.61181,7,0,labels/le2i.csv,428
+le2i-8d5c9d77c4309b9a,3.612,11.36181,0,0,labels/le2i.csv; merged same target class,436
+le2i-8d5c9d77c4309b9a,11.362,13.06514,4,0,labels/le2i.csv,449
+le2i-9165a835a3bba7bc,1.805,7.61181,0,0,labels/le2i.csv,452
+le2i-9165a835a3bba7bc,7.612,9.63264,3,0,labels/le2i.csv,461
+le2i-9165a835a3bba7bc,9.633,13.299154999999999,9,0,labels/le2i.csv; merged same target class,468
+le2i-9165a835a3bba7bc,13.299154999999999,15.09097,1,1,labels/le2i.csv,475
+le2i-9165a835a3bba7bc,15.091,19.70764,2,2,labels/le2i.csv,476
+le2i-93512eff324d47d1,0.0,2.71673,0,0,labels/le2i.csv,554
+le2i-93512eff324d47d1,2.717,4.34173,1,1,labels/le2i.csv,564
+le2i-93512eff324d47d1,4.342,6.4209,2,2,labels/le2i.csv,567
+le2i-94261e760b3690fd,0.0,1.98681,7,0,labels/le2i.csv,12
+le2i-94261e760b3690fd,1.987,3.13264,0,0,labels/le2i.csv,25
+le2i-94261e760b3690fd,3.133,5.674155000000001,1,1,labels/le2i.csv,31
+le2i-94261e760b3690fd,5.674155000000001,8.254,2,2,labels/le2i.csv,44
+le2i-952fc23356c6a2f6,3.841,6.98681,0,0,labels/le2i.csv,455
+le2i-952fc23356c6a2f6,6.987,12.36181,9,0,labels/le2i.csv; merged same target class,459
+le2i-952fc23356c6a2f6,12.362,25.09097,4,0,labels/le2i.csv,474
+le2i-952fc23356c6a2f6,25.091,27.00764,7,0,labels/le2i.csv,487
+le2i-952fc23356c6a2f6,27.008,30.48681,0,0,labels/le2i.csv,488
+le2i-952fc23356c6a2f6,30.487,32.86181,1,1,labels/le2i.csv,489
+le2i-952fc23356c6a2f6,32.862,37.39764,2,2,labels/le2i.csv,490
+le2i-98e826d62966a8c1,0.0,1.08,4,0,labels/le2i.csv,379
+le2i-98e826d62966a8c1,1.08,2.36,7,0,labels/le2i.csv,383
+le2i-98e826d62966a8c1,2.36,2.94,0,0,labels/le2i.csv,384
+le2i-98e826d62966a8c1,2.94,4.76,1,1,labels/le2i.csv,386
+le2i-98e826d62966a8c1,4.76,8.6,2,2,labels/le2i.csv,388
+le2i-9ad30f17bef258a0,2.538,9.34097,0,0,labels/le2i.csv; merged same target class,454
+le2i-9ad30f17bef258a0,9.341,15.21597,0,0,labels/le2i.csv,466
+le2i-9ad30f17bef258a0,15.216,23.09097,9,0,labels/le2i.csv; merged same target class; merged same target class,477
+le2i-9ad30f17bef258a0,23.091,24.94507,1,1,labels/le2i.csv,483
+le2i-9ad30f17bef258a0,24.94507,28.87764,2,2,labels/le2i.csv,486
+le2i-9cf12492a2e99eb5,0.0,12.04764,9,0,labels/le2i.csv,960
+le2i-9cfc01cc6d3b7f8a,0.0,1.00764,4,0,labels/le2i.csv,423
+le2i-9cfc01cc6d3b7f8a,1.008,3.21597,7,0,labels/le2i.csv,429
+le2i-9cfc01cc6d3b7f8a,3.216,4.71597,9,0,labels/le2i.csv,435
+le2i-9cfc01cc6d3b7f8a,4.716,6.299155000000001,1,1,labels/le2i.csv,439
+le2i-9cfc01cc6d3b7f8a,6.299155000000001,9.98181,2,2,labels/le2i.csv,443
+le2i-9f0f20997708117c,0.165,4.59173,0,0,labels/le2i.csv,796
+le2i-9f0f20997708117c,4.592,6.46673,1,1,labels/le2i.csv,799
+le2i-9f0f20997708117c,6.467,8.27423,2,2,labels/le2i.csv,805
+le2i-a036c76f3c486279,0.0,1.3209,0,0,labels/le2i.csv,623
+le2i-a036c76f3c486279,1.321,3.55003,1,1,labels/le2i.csv,628
+le2i-a036c76f3c486279,3.55003,6.2934,2,2,labels/le2i.csv,633
+le2i-a0b7a3a15ee8c48f,0.0,1.50764,4,0,labels/le2i.csv,685
+le2i-a0b7a3a15ee8c48f,1.508,4.46597,7,0,labels/le2i.csv,693
+le2i-a0b7a3a15ee8c48f,4.466,5.049155000000001,9,0,labels/le2i.csv,700
+le2i-a0b7a3a15ee8c48f,5.049155000000001,6.549155000000001,1,1,labels/le2i.csv,704
+le2i-a0b7a3a15ee8c48f,6.549155000000001,7.98597,2,2,labels/le2i.csv,713
+le2i-a0dd8252c96a85d1,2.945,12.71597,0,0,labels/le2i.csv; merged same target class; merged same target class; merged same target class,782
+le2i-a0dd8252c96a85d1,12.716,33.88264,4,0,labels/le2i.csv; merged same target class,788
+le2i-a0dd8252c96a85d1,33.883,38.96597,0,0,labels/le2i.csv,791
+le2i-a1f22244bc5d011a,0.0,7.5709,4,0,labels/le2i.csv; merged same target class; merged same target class,518
+le2i-a1f22244bc5d011a,7.571,9.86256,1,1,labels/le2i.csv,540
+le2i-a1f22244bc5d011a,9.863,10.692,2,2,labels/le2i.csv,543
+le2i-a25a0621654fb2f4,0.0,0.59097,8,0,labels/le2i.csv,809
+le2i-a25a0621654fb2f4,0.591,4.15347,0,0,labels/le2i.csv,811
+le2i-a25a0621654fb2f4,5.07,8.11181,0,0,labels/le2i.csv,812
+le2i-a25a0621654fb2f4,8.112,20.61181,9,0,labels/le2i.csv; merged same target class; merged same target class,815
+le2i-a25a0621654fb2f4,20.612,45.13264,4,0,labels/le2i.csv; merged same target class; merged same target class; merged same target class,818
+le2i-a25a0621654fb2f4,45.133,48.25764,0,0,labels/le2i.csv; merged same target class,822
+le2i-a25a0621654fb2f4,48.258,50.84097,4,0,labels/le2i.csv,824
+le2i-a25a0621654fb2f4,50.841,52.23681,7,0,labels/le2i.csv,825
+le2i-a25a0621654fb2f4,52.237,64.27597,0,0,labels/le2i.csv; merged same target class; merged same target class,826
+le2i-a3e79b4fb7fd728a,0.001,1.71673,4,0,labels/le2i.csv,521
+le2i-a3e79b4fb7fd728a,1.717,3.73756,7,0,labels/le2i.csv,525
+le2i-a3e79b4fb7fd728a,3.738,4.73756,0,0,labels/le2i.csv,530
+le2i-a3e79b4fb7fd728a,4.738,6.23681,9,0,labels/le2i.csv,533
+le2i-a3e79b4fb7fd728a,6.237,8.05003,1,1,labels/le2i.csv,537
+le2i-a3e79b4fb7fd728a,8.05003,10.1109,2,2,labels/le2i.csv,542
+le2i-a7f41ba2e6d9fde0,0.001,4.3209,0,0,labels/le2i.csv,366
+le2i-a7f41ba2e6d9fde0,4.321,7.21673,8,0,labels/le2i.csv; merged same target class,371
+le2i-a7f41ba2e6d9fde0,7.217,9.34173,1,1,labels/le2i.csv,375
+le2i-a7f41ba2e6d9fde0,9.342,12.242,2,2,labels/le2i.csv,377
+le2i-a7fe482330441bc1,0.0,1.84097,4,0,labels/le2i.csv,395
+le2i-a7fe482330441bc1,1.841,4.23681,7,0,labels/le2i.csv,401
+le2i-a7fe482330441bc1,4.237,5.75764,0,0,labels/le2i.csv,404
+le2i-a7fe482330441bc1,5.758,7.59097,1,1,labels/le2i.csv,409
+le2i-a7fe482330441bc1,7.591,10.98264,2,2,labels/le2i.csv,416
+le2i-a98a17e81137decf,0.341,2.278235,0,0,labels/le2i.csv,269
+le2i-a98a17e81137decf,2.278235,4.50764,1,1,labels/le2i.csv,276
+le2i-a98a17e81137decf,4.508,6.91764,2,2,labels/le2i.csv,286
+le2i-a9b56885938886cb,0.0,5.1532350000000005,0,0,labels/le2i.csv,650
+le2i-a9b56885938886cb,5.1532350000000005,7.21597,1,1,labels/le2i.csv,654
+le2i-a9b56885938886cb,7.216,8.476,2,2,labels/le2i.csv,657
+le2i-aa28949040880d1d,0.0,5.2782350000000005,0,0,labels/le2i.csv,829
+le2i-aa28949040880d1d,5.2782350000000005,7.299155000000001,1,1,labels/le2i.csv,836
+le2i-aa28949040880d1d,7.299155000000001,9.96597,7,0,labels/le2i.csv,839
+le2i-aa28949040880d1d,9.966,12.98264,0,0,labels/le2i.csv,843
+le2i-ab1e45b5bb4b7b73,0.0,0.84097,4,0,labels/le2i.csv,98
+le2i-ab1e45b5bb4b7b73,0.841,5.48681,7,0,labels/le2i.csv; merged same target class; merged same target class,99
+le2i-ab1e45b5bb4b7b73,5.487,7.4032350000000005,1,1,labels/le2i.csv,125
+le2i-ab1e45b5bb4b7b73,7.4032350000000005,8.98431,2,2,labels/le2i.csv,138
+le2i-ae597f74e4f13b73,0.0,5.38264,9,0,labels/le2i.csv; merged same target class; merged same target class,154
+le2i-ae597f74e4f13b73,5.383,8.00764,0,0,labels/le2i.csv,182
+le2i-ae597f74e4f13b73,8.008,13.09097,9,0,labels/le2i.csv; merged same target class,196
+le2i-ae597f74e4f13b73,13.091,14.98431,4,0,labels/le2i.csv,199
+le2i-af8f32d727603ac4,0.0,7.674155000000001,4,0,labels/le2i.csv; merged same target class; merged same target class,144
+le2i-af8f32d727603ac4,7.674155000000001,10.653235,1,1,labels/le2i.csv,194
+le2i-af8f32d727603ac4,10.653235,12.98597,2,2,labels/le2i.csv,197
+le2i-b3f9da24355f4234,0.0,3.84,0,0,labels/le2i.csv,792
+le2i-b3f9da24355f4234,3.84,5.94507,1,1,labels/le2i.csv,798
+le2i-b3f9da24355f4234,5.94507,6.945,2,2,labels/le2i.csv,803
+le2i-b42b2273be7e1a50,1.653,3.09097,0,0,labels/le2i.csv,923
+le2i-b42b2273be7e1a50,3.091,4.549155000000001,1,1,labels/le2i.csv,927
+le2i-b42b2273be7e1a50,4.549155000000001,7.71181,2,2,labels/le2i.csv,933
+le2i-b5372872f2a8ba92,0.0,3.13264,4,0,labels/le2i.csv,87
+le2i-b5372872f2a8ba92,3.133,6.799155000000001,7,0,labels/le2i.csv,110
+le2i-b5372872f2a8ba92,6.799155000000001,8.84097,1,1,labels/le2i.csv,134
+le2i-b5372872f2a8ba92,8.841,10.98431,2,2,labels/le2i.csv,141
+le2i-b6075a524b71eb39,0.0,9.86181,4,0,labels/le2i.csv,592
+le2i-b6075a524b71eb39,9.862,13.278235,9,0,labels/le2i.csv; merged same target class,608
+le2i-b6075a524b71eb39,13.278235,15.09097,1,1,labels/le2i.csv,614
+le2i-b6075a524b71eb39,15.091,18.67181,2,2,labels/le2i.csv,616
+le2i-ba351b824a7a824e,0.0,3.02923,0,0,labels/le2i.csv,6
+le2i-ba351b824a7a824e,3.02923,5.654115,1,1,labels/le2i.csv,30
+le2i-ba351b824a7a824e,5.654115,8.514,2,2,labels/le2i.csv,43
+le2i-ba37afee05dd30f8,6.394,11.61181,0,0,labels/le2i.csv,213
+le2i-ba37afee05dd30f8,11.612,14.424154999999999,1,1,labels/le2i.csv,226
+le2i-ba37afee05dd30f8,14.424154999999999,16.58681,2,2,labels/le2i.csv,231
+le2i-bd67df73b48dca88,0.0,4.88264,0,0,labels/le2i.csv,648
+le2i-bd67df73b48dca88,4.883,6.5282350000000005,1,1,labels/le2i.csv,653
+le2i-bd67df73b48dca88,6.5282350000000005,10.02681,2,2,labels/le2i.csv,656
+le2i-c06e995edde9a16f,0.0,4.5282350000000005,7,0,labels/le2i.csv; merged same target class,585
+le2i-c06e995edde9a16f,4.5282350000000005,6.00764,1,1,labels/le2i.csv,587
+le2i-c06e995edde9a16f,6.008,7.98514,2,2,labels/le2i.csv,588
+le2i-c0c18c509cf1a260,0.0,2.50764,4,0,labels/le2i.csv,832
+le2i-c0c18c509cf1a260,2.508,4.799155000000001,7,0,labels/le2i.csv,834
+le2i-c0c18c509cf1a260,4.799155000000001,6.82007,1,1,labels/le2i.csv,835
+le2i-c0c18c509cf1a260,6.82007,8.98347,2,2,labels/le2i.csv,838
+le2i-c0e99902dd05316b,0.508,5.59097,0,0,labels/le2i.csv; merged same target class; merged same target class,921
+le2i-c0e99902dd05316b,5.591,10.48681,3,0,labels/le2i.csv; merged same target class,935
+le2i-c0e99902dd05316b,10.487,15.77847,7,0,labels/le2i.csv; merged same target class,946
+le2i-c1350643ae2484a7,0.633,21.27764,0,0,labels/le2i.csv; merged same target class; merged same target class,492
+le2i-c42f79d57d9772e6,0.0,3.46673,0,0,labels/le2i.csv,660
+le2i-c42f79d57d9772e6,3.467,5.55003,1,1,labels/le2i.csv,668
+le2i-c42f79d57d9772e6,5.55003,8.66756,2,2,labels/le2i.csv,672
+le2i-c501834102441ec2,3.653,5.96597,0,0,labels/le2i.csv,282
+le2i-c501834102441ec2,5.966,9.61181,9,0,labels/le2i.csv; merged same target class; merged same target class,294
+le2i-c501834102441ec2,9.612,10.34097,4,0,labels/le2i.csv,309
+le2i-c501834102441ec2,10.341,19.48681,9,0,labels/le2i.csv; merged same target class; merged same target class,310
+le2i-c501834102441ec2,19.487,21.38264,0,0,labels/le2i.csv,336
+le2i-c6156e6dbdce60a8,2.612,5.46597,0,0,labels/le2i.csv,277
+le2i-c6156e6dbdce60a8,5.466,7.46597,3,0,labels/le2i.csv,289
+le2i-c6156e6dbdce60a8,7.466,12.25764,9,0,labels/le2i.csv,302
+le2i-c6156e6dbdce60a8,12.258,14.00764,4,0,labels/le2i.csv,315
+le2i-c6156e6dbdce60a8,14.008,16.75764,9,0,labels/le2i.csv,323
+le2i-c6156e6dbdce60a8,16.758,19.36181,4,0,labels/le2i.csv,329
+le2i-c6156e6dbdce60a8,19.362,22.88264,7,0,labels/le2i.csv,335
+le2i-c6156e6dbdce60a8,22.883,24.92431,0,0,labels/le2i.csv,340
+le2i-c943f55576152983,3.206,5.59097,0,0,labels/le2i.csv,594
+le2i-c943f55576152983,5.591,10.88264,9,0,labels/le2i.csv,600
+le2i-c943f55576152983,10.883,13.71597,0,0,labels/le2i.csv,610
+le2i-c943f55576152983,13.716,23.59097,3,0,labels/le2i.csv; merged same target class; merged same target class,615
+le2i-c943f55576152983,23.591,24.59097,7,0,labels/le2i.csv,619
+le2i-c943f55576152983,24.591,28.69514,0,0,labels/le2i.csv,620
+le2i-c9e5a50f8104b31f,0.0,2.88264,4,0,labels/le2i.csv; merged same target class,145
+le2i-c9e5a50f8104b31f,2.883,5.049155000000001,1,1,labels/le2i.csv,168
+le2i-c9e5a50f8104b31f,5.049155000000001,7.98514,2,2,labels/le2i.csv,181
+le2i-cb01471ea24e7db7,0.0,23.84097,9,0,labels/le2i.csv,60
+le2i-cb24eca64f39cb21,0.0,5.71673,0,0,labels/le2i.csv,10
+le2i-cb24eca64f39cb21,5.717,8.133199999999999,1,1,labels/le2i.csv,45
+le2i-cb24eca64f39cb21,8.133199999999999,10.753,2,2,labels/le2i.csv,50
+le2i-ced9831f3dab15a3,5.07,6.95,9,0,labels/le2i.csv,288
+le2i-ced9831f3dab15a3,6.95,7.87,0,0,labels/le2i.csv,299
+le2i-ced9831f3dab15a3,7.87,11.75,9,0,labels/le2i.csv,303
+le2i-ced9831f3dab15a3,11.75,12.38264,0,0,labels/le2i.csv,313
+le2i-ced9831f3dab15a3,12.383,13.48681,9,0,labels/le2i.csv,316
+le2i-ced9831f3dab15a3,13.487,20.71597,3,0,labels/le2i.csv; merged same target class; merged same target class,321
+le2i-ced9831f3dab15a3,20.716,29.21597,4,0,labels/le2i.csv; merged same target class,337
+le2i-ced9831f3dab15a3,29.216,32.61181,4,0,labels/le2i.csv; merged same target class,351
+le2i-ced9831f3dab15a3,32.612,39.13264,9,0,labels/le2i.csv; merged same target class; merged same target class,356
+le2i-ced9831f3dab15a3,39.133,41.61181,3,0,labels/le2i.csv,362
+le2i-ced9831f3dab15a3,41.612,45.83181,4,0,labels/le2i.csv,364
+le2i-cfc0a54411dc53af,0.0,1.50764,0,0,labels/le2i.csv,491
+le2i-cfc0a54411dc53af,1.508,3.36181,8,0,labels/le2i.csv,495
+le2i-cfc0a54411dc53af,3.362,4.11181,0,0,labels/le2i.csv,501
+le2i-cfc0a54411dc53af,4.112,6.174155000000001,1,1,labels/le2i.csv,503
+le2i-cfc0a54411dc53af,6.174155000000001,8.67097,2,2,labels/le2i.csv,506
+le2i-d02ce027c004cfda,0.0,2.98756,0,0,labels/le2i.csv,556
+le2i-d02ce027c004cfda,2.988,5.0709,1,1,labels/le2i.csv,565
+le2i-d02ce027c004cfda,5.071,9.06173,2,2,labels/le2i.csv,569
+le2i-d27e0b9ab0e35327,1.716,6.36181,0,0,labels/le2i.csv,400
+le2i-d27e0b9ab0e35327,6.362,7.71597,1,1,labels/le2i.csv,413
+le2i-d27e0b9ab0e35327,7.716,8.98431,2,2,labels/le2i.csv,417
+le2i-d4445747f85fd607,3.602,5.84097,0,0,labels/le2i.csv,597
+le2i-d4445747f85fd607,5.841,7.86181,1,1,labels/le2i.csv,601
+le2i-d4445747f85fd607,7.862,9.21597,2,2,labels/le2i.csv,604
+le2i-d4445747f85fd607,9.216,10.356,7,0,labels/le2i.csv,607
+le2i-d6cb56f62417de80,0.0,0.96597,4,0,labels/le2i.csv,95
+le2i-d6cb56f62417de80,0.966,4.38264,7,0,labels/le2i.csv; merged same target class; merged same target class,100
+le2i-d6cb56f62417de80,4.383,6.57007,1,1,labels/le2i.csv,120
+le2i-d6cb56f62417de80,6.57007,7.98681,2,2,labels/le2i.csv,133
+le2i-d7d06e45d1b0e693,0.0,4.71597,4,0,labels/le2i.csv; merged same target class; merged same target class,422
+le2i-d7d06e45d1b0e693,4.716,6.34097,1,1,labels/le2i.csv,438
+le2i-d7d06e45d1b0e693,6.341,8.98014,2,2,labels/le2i.csv,444
+le2i-d84ea9ec63a705c6,0.0,16.09097,7,0,labels/le2i.csv; merged same target class; merged same target class,752
+le2i-d84ea9ec63a705c6,16.091,24.19507,0,0,labels/le2i.csv,762
+le2i-d84ea9ec63a705c6,24.19507,26.98681,1,1,labels/le2i.csv,764
+le2i-d84ea9ec63a705c6,26.987,29.14597,2,2,labels/le2i.csv,767
+le2i-da3380497a241bab,0.0,4.09097,4,0,labels/le2i.csv; merged same target class,848
+le2i-da3380497a241bab,4.091,12.99931,9,0,labels/le2i.csv; merged same target class; merged same target class; merged same target class,855
+le2i-da51489572d68101,1.753,8.88264,0,0,labels/le2i.csv; merged same target class; merged same target class,451
+le2i-da51489572d68101,8.883,10.445070000000001,1,1,labels/le2i.csv,465
+le2i-da51489572d68101,10.445070000000001,13.46597,2,2,labels/le2i.csv,471
+le2i-da8b46d943dd23ae,1.718,6.34097,0,0,labels/le2i.csv,589
+le2i-da8b46d943dd23ae,6.341,9.46597,1,1,labels/le2i.csv,590
+le2i-da8b46d943dd23ae,9.466,11.38014,2,2,labels/le2i.csv,591
+le2i-db1b74fa1f45673e,0.0,4.84097,0,0,labels/le2i.csv,649
+le2i-db1b74fa1f45673e,4.841,6.4032350000000005,1,1,labels/le2i.csv,652
+le2i-db1b74fa1f45673e,6.4032350000000005,10.98181,2,2,labels/le2i.csv,655
+le2i-dd001a58635dde88,0.0,1.63264,7,0,labels/le2i.csv,424
+le2i-dd001a58635dde88,1.633,5.00764,0,0,labels/le2i.csv,432
+le2i-dd001a58635dde88,5.008,7.985,3,0,labels/le2i.csv; merged same target class,440
+le2i-e015572c70a357a2,0.0,12.3,0,0,labels/le2i.csv,958
+le2i-e015572c70a357a2,12.3,16.94,9,0,labels/le2i.csv,961
+le2i-e015572c70a357a2,16.94,21.52,0,0,labels/le2i.csv,963
+le2i-e015572c70a357a2,21.52,54.52,9,0,labels/le2i.csv,965
+le2i-e015572c70a357a2,54.52,70.34,0,0,labels/le2i.csv,966
+le2i-e015572c70a357a2,70.34,74.14,1,1,labels/le2i.csv,967
+le2i-e015572c70a357a2,74.14,78.16,2,2,labels/le2i.csv,968
+le2i-e025215345fe9190,0.565,1.805,0,0,labels/le2i.csv,922
+le2i-e025215345fe9190,1.805,3.765,9,0,labels/le2i.csv,924
+le2i-e025215345fe9190,3.765,8.485,0,0,labels/le2i.csv,929
+le2i-e13d925cd5ff2505,0.901,5.221,0,0,labels/le2i.csv,382
+le2i-e13d925cd5ff2505,5.221,8.121,9,0,labels/le2i.csv,390
+le2i-e13d925cd5ff2505,8.121,10.041,0,0,labels/le2i.csv,392
+le2i-e13d925cd5ff2505,10.041,11.98681,1,1,labels/le2i.csv,393
+le2i-e13d925cd5ff2505,11.987,15.307,2,2,labels/le2i.csv,394
+le2i-e2cd86c7cecdef9f,0.0,4.61181,4,0,labels/le2i.csv,593
+le2i-e2cd86c7cecdef9f,4.612,6.84097,7,0,labels/le2i.csv,598
+le2i-e2cd86c7cecdef9f,6.841,8.653235,1,1,labels/le2i.csv,603
+le2i-e2cd86c7cecdef9f,8.653235,12.79764,2,2,labels/le2i.csv,605
+le2i-e3868163489a3907,0.0,5.09097,9,0,labels/le2i.csv,869
+le2i-e3868163489a3907,5.091,10.13264,0,0,labels/le2i.csv,879
+le2i-e55469ec074a3f42,0.001,0.5709,4,0,labels/le2i.csv,558
+le2i-e55469ec074a3f42,0.571,2.5709,7,0,labels/le2i.csv,560
+le2i-e55469ec074a3f42,2.571,7.73756,0,0,labels/le2i.csv,563
+le2i-e55469ec074a3f42,7.738,9.383199999999999,1,1,labels/le2i.csv,574
+le2i-e55469ec074a3f42,9.383199999999999,12.19506,2,2,labels/le2i.csv,575
+le2i-e593145db41062c1,4.43,7.13264,9,0,labels/le2i.csv,932
+le2i-e593145db41062c1,7.133,10.73681,0,0,labels/le2i.csv; merged same target class; merged same target class,939
+le2i-e593145db41062c1,10.737,20.23681,7,0,labels/le2i.csv; merged same target class; merged same target class; merged same target class,947
+le2i-e593145db41062c1,20.237,26.21597,9,0,labels/le2i.csv; merged same target class,952
+le2i-e593145db41062c1,26.216,29.13264,7,0,labels/le2i.csv,954
+le2i-e593145db41062c1,29.133,34.59097,9,0,labels/le2i.csv,955
+le2i-e593145db41062c1,34.591,36.98681,3,0,labels/le2i.csv,956
+le2i-e593145db41062c1,36.987,39.50264,4,0,labels/le2i.csv,957
+le2i-e7c8b63ee895813a,3.565,8.46597,0,0,labels/le2i.csv; merged same target class,874
+le2i-e7c8b63ee895813a,8.466,10.48681,0,0,labels/le2i.csv,886
+le2i-e7c8b63ee895813a,10.487,12.028235,1,1,labels/le2i.csv,891
+le2i-e7c8b63ee895813a,12.028235,15.54597,2,2,labels/le2i.csv,896
+le2i-e86a69262b3a96f4,0.0,3.88264,8,0,labels/le2i.csv; merged same target class,146
+le2i-e86a69262b3a96f4,3.883,7.98347,3,0,labels/le2i.csv; merged same target class,175
+le2i-efd946cb121056dc,0.0,5.59173,0,0,labels/le2i.csv; merged same target class,8
+le2i-efd946cb121056dc,5.592,7.8209,0,0,labels/le2i.csv,42
+le2i-efd946cb121056dc,7.821,10.59173,1,1,labels/le2i.csv,49
+le2i-efd946cb121056dc,10.592,14.472,2,2,labels/le2i.csv,51
+le2i-f1bdf713700bbf69,0.27,8.34173,0,0,labels/le2i.csv; merged same target class; merged same target class,367
+le2i-f1bdf713700bbf69,8.342,10.55003,1,1,labels/le2i.csv,376
+le2i-f1bdf713700bbf69,10.55003,12.33756,2,2,labels/le2i.csv,378
+le2i-f1dfa8748879909d,0.0,4.38264,4,0,labels/le2i.csv; merged same target class,844
+le2i-f1dfa8748879909d,4.383,9.999,0,0,labels/le2i.csv; merged same target class; merged same target class,856
+le2i-f4519348f4de3ab6,0.0,1.25764,4,0,labels/le2i.csv,153
+le2i-f4519348f4de3ab6,1.258,8.98264,7,0,labels/le2i.csv; merged same target class; merged same target class; merged same target class,158
+le2i-f493b2c9dee71b3f,0.0,51.31514,9,0,labels/le2i.csv,651
+le2i-f6600c2570965dfa,5.27847,10.48681,0,0,labels/le2i.csv,211
+le2i-f6600c2570965dfa,10.487,22.653235,9,0,labels/le2i.csv; merged same target class; merged same target class; merged same target class,225
+le2i-f6600c2570965dfa,22.653235,24.299155,1,1,labels/le2i.csv,245
+le2i-f6600c2570965dfa,24.299155,26.98264,2,2,labels/le2i.csv,247
+le2i-f6a24c3ca1c9bc69,0.0,16.50764,9,0,labels/le2i.csv,959
+le2i-f6a24c3ca1c9bc69,16.508,18.674155,1,1,labels/le2i.csv,962
+le2i-f6a24c3ca1c9bc69,18.674155,19.69431,2,2,labels/le2i.csv,964
+le2i-f8a074d0f0c5a213,0.0,0.55006,0,0,labels/le2i.csv,5
+le2i-f8a074d0f0c5a213,0.5084,2.61256,1,1,labels/le2i.csv,17
+le2i-f8a074d0f0c5a213,2.613,6.313,2,2,labels/le2i.csv,27
+le2i-f989d9a799cc163e,3.258,5.1532350000000005,0,0,labels/le2i.csv,595
+le2i-f989d9a799cc163e,5.1532350000000005,6.34097,1,1,labels/le2i.csv,599
+le2i-f989d9a799cc163e,6.341,9.50347,2,2,labels/le2i.csv,602
+le2i-f9dff2f2c3503c10,0.0,2.63264,4,0,labels/le2i.csv; merged same target class,847
+le2i-f9dff2f2c3503c10,2.633,8.99931,0,0,labels/le2i.csv; merged same target class,852
+le2i-fb3178dabd31ffad,0.0,20.71597,4,0,labels/le2i.csv; merged same target class,267
+le2i-fb3178dabd31ffad,20.716,26.48681,0,0,labels/le2i.csv,338
+le2i-fb3178dabd31ffad,26.487,30.86181,9,0,labels/le2i.csv,347
+le2i-fb3178dabd31ffad,30.862,32.73681,0,0,labels/le2i.csv,354
+le2i-fd264688d6c2ff40,0.0,1.98681,4,0,labels/le2i.csv,152
+le2i-fd264688d6c2ff40,1.987,3.11181,7,0,labels/le2i.csv,164
+le2i-fd264688d6c2ff40,3.112,7.11181,0,0,labels/le2i.csv; merged same target class,170
+le2i-fd264688d6c2ff40,7.112,8.98514,4,0,labels/le2i.csv,192
+le2i-fe382b822a6305dd,0.0,9.09097,0,0,labels/le2i.csv; merged same target class; merged same target class,57
+le2i-fe382b822a6305dd,9.091,10.86181,7,0,labels/le2i.csv,73
+le2i-fe382b822a6305dd,10.862,11.50764,0,0,labels/le2i.csv,76
+le2i-fe382b822a6305dd,11.508,13.570070000000001,1,1,labels/le2i.csv,77
+le2i-fe382b822a6305dd,13.570070000000001,17.23264,2,2,labels/le2i.csv,79
+le2i-fe96e89a0bad9863,0.0,1.924,4,0,labels/le2i.csv,56
+le2i-fe96e89a0bad9863,1.924,7.485,9,0,labels/le2i.csv; merged same target class,61
+le2i-fe96e89a0bad9863,7.485,8.265,0,0,labels/le2i.csv,70
+le2i-fe96e89a0bad9863,8.265,10.44,1,1,labels/le2i.csv,72
+le2i-fe96e89a0bad9863,10.44,12.92,2,2,labels/le2i.csv,75
+le2i-ff4579ab34bd06e9,2.392,8.50764,0,0,labels/le2i.csv,202
+le2i-ff4579ab34bd06e9,8.508,11.695070000000001,9,0,labels/le2i.csv,219
+le2i-ff4579ab34bd06e9,11.695070000000001,14.528235,1,1,labels/le2i.csv,227
+le2i-ff4579ab34bd06e9,14.528235,17.10764,2,2,labels/le2i.csv,232
+le2i-ff507beb5e65b6cf,0.0,5.5082,7,0,labels/le2i.csv; merged same target class,555
+le2i-ff507beb5e65b6cf,5.5082,7.46673,1,1,labels/le2i.csv,570
+le2i-ff507beb5e65b6cf,7.467,10.63006,2,2,labels/le2i.csv,573
+le2i-ff7e6ab979101637,0.299,5.959,0,0,labels/le2i.csv,810
+le2i-ff7e6ab979101637,5.959,7.7,1,1,labels/le2i.csv,813
+le2i-ff7e6ab979101637,7.7,10.04,2,2,labels/le2i.csv,814
+le2i-ffcf9f510eb9beb9,0.0,0.73681,3,0,labels/le2i.csv,686
+le2i-ffcf9f510eb9beb9,0.737,6.5282350000000005,4,0,labels/le2i.csv; merged same target class; merged same target class,690
+le2i-ffcf9f510eb9beb9,6.5282350000000005,8.09097,1,1,labels/le2i.csv,712
+le2i-ffcf9f510eb9beb9,8.091,8.875,2,2,labels/le2i.csv,716

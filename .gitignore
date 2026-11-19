@@ -1,0 +1,34 @@
+# Python
+.venv/
+__pycache__/
+*.egg-info/
+.ruff_cache/
+.pytest_cache/
+
+# Large or generated data (see README for how to obtain / regenerate)
+data/raw/
+data/pose_cache/
+data/manifest_snapshot/
+outputs/
+weights/
+datasets/
+Ultralytics/
+
+# Report is submitted separately
+report/
+
+# Internal helper scripts and working notes
+tools/dev/
+docs/
+*.tgz
+
+# Full demo videos are hosted on Google Drive
+demo_clips/
+
+# Editor / tool settings
+.vscode/
+.idea/
+
+# Internal label review notes
+data/annotations/manual_reviews.json
+data/annotations/review_evidence/
